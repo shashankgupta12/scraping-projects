@@ -1,0 +1,2088 @@
+1,a-2817,methamphetamine,5 MG,White,Round
+2,a-21789,*,325 mg,Yellow,Round
+3,a-1315,almotriptan,12.5 mg,White,Round
+4,a-17455,*,81 mg,Yellow,Round
+5,a-2871,methamphetamine,10 MG,Orange,Round
+6,a-15418,*,325 mg,Orange,Round
+7,a-23872,*,12.5 mg,White,Round
+8,a-21576,*,,White,Four-sided
+9,a-9051,desloratadine,5 mg,Red,Round
+10,a-21606,*,,Blue,Four-sided
+11,a-21215,*,2.5 mg,White,Round
+12,a-5368,methamphetamine,15 MG,Yellow,Round
+13,a-0-6-14464,*,20 mg,Pink,Capsule-shape
+14,a-0-7-9405,*,40 mg,White,Capsule-shape
+15,a-0-8-12657,*,15 mg,Yellow,Capsule-shape
+16,a-0-9-9016,*,30 mg,Brown,Capsule-shape
+17,a-01-14518,*,10 mg,Pink,Round
+18,a-02-14519,*,20 mg,Pink,Round
+19,a-03-14520,*,40 mg,Pink,Round
+20,a-04-14521,*,80 mg,Pink,Elliptical / Oval
+21,a-047-12979,phendimetrazine,105 mg,Green & Yellow,Capsule-shape
+22,a-05-9403,*,10 mg,Peach,Round
+23,a-056-23367,acetaminophen/butalbital,acetaminophen 650mg / butalbital 50mg,Purple,Capsule-shape
+24,a-062-19998,*,5 mg,White,Elliptical / Oval
+25,a-1-4-14494,*,1000 mg,White,Elliptical / Oval
+26,a-1-7-14515,*,50 mg,Blue,Capsule-shape
+27,a-10-19498,lorcaserin,10 mg,Blue,Round
+28,a-10-9018,*,45 mg,White,Capsule-shape
+29,a-10-23474,*,10 mg,Pink,Rectangle
+30,a-100mg-ot-2862,cyclosporine,100 mg,White,Capsule-shape
+31,a-11-9015,*,7.5 mg,White,Capsule-shape
+32,a-111-17207,*,500 mg,Brown,Elliptical / Oval
+33,a-12-8778,*,500 mg,White,Round
+34,a-13-14493,*,850 mg,White,Round
+35,a-134-23565,*,50 mg,White,Capsule-shape
+36,a-135-23566,*,100 mg,White,Capsule-shape
+37,a-135-13700,fenofibric acid,135 mg,Blue & Yellow,Capsule-shape
+38,a-135-22003,*,135 mg,Blue / Yellow,Capsule-shape
+39,a-136-23567,*,200 mg,White,Capsule-shape
+40,a-137-23568,*,400 mg,White,Capsule-shape
+41,a-14-20650,*,2 mg (base) / 0.5 mg (base),Orange,Round
+42,a-15-14517,*,5 mg,Yellow,Round
+43,a-153-10029,*,30 mg,Yellow,Round
+44,a-156-22138,*,20 mg,Green,Capsule-shape
+45,a-157-22139,*,30 mg,Blue & White,Capsule-shape
+46,a-158-22140,*,60 mg,Blue / Green,Capsule-shape
+47,a-16-14514,*,25 mg,Green,Capsule-shape
+48,a-18-14516,*,100 mg,Yellow,Capsule-shape
+49,a-19-19638,*,750 mg,White,Capsule-shape
+50,a-2-23472,*,2 mg,Green,Rectangle
+51,a-2-1-14482,*,5 mg,Red,Round
+52,a-2-9-16359,*,1.25 mg,White,Round
+53,a-20-14481,*,2.5 mg,White,Round
+54,a-22-14483,*,10 mg,Yellow,Round
+55,a-23-14484,*,20 mg,Yellow,Capsule-shape
+56,a-237-15435,*,0.025 mg / 2.5 mg,White,Round
+57,a-24-14485,*,30 mg,Yellow,Round
+58,a-25-20363,*,25 mg,White,Elliptical / Oval
+59,a-25-14486,*,40 mg,Yellow,Capsule-shape
+60,a-25mg-or-2861,cyclosporine,25 mg,White,Capsule-shape
+61,a-26-14487,*,12.5 mg / 10 mg,Pink,Round
+62,a-27-14488,*,25 mg / 20 mg,Pink,Round
+63,a-28-14489,*,12.5 mg / 20 mg,Yellow,Round
+64,a-3-7499,*,2.5 mg,White,Eight-sided
+65,a-3-0-16360,*,2.5 mg,White,Round
+66,a-3-1-16361,*,5 mg,White,Round
+67,a-36-14498,*,15 mg,White,Round
+68,a-37-14499,*,30 mg,White,Round
+69,a-38-14500,*,45 mg,White,Round
+70,a-45-21368,*,45 mg,Brown / Yellow,Capsule-shape
+71,a-45-13701,fenofibric acid,45 mg,Brown & Yellow,Capsule-shape
+72,a-46-14470,*,1.25 mg / 250 mg,Yellow,Capsule-shape
+73,a-47-14471,*,2.5 mg / 500 mg,Pink,Capsule-shape
+74,a-48-14472,*,5 mg / 500 mg,Yellow,Capsule-shape
+75,a-49-14105,*,0.25 mg,Yellow,Round
+76,a-5-14941,*,5 mg,White,Round
+77,a-5-23473,*,5 mg,Blue,Rectangle
+78,a-5-0-7051,acetaminophen/butalbital,acetaminophen 325 mg / butalbital 50 mg,Purple,Round
+79,a-50-17257,dolasetron,50 mg,Pink,Round
+80,a-51-14915,*,5 mg,White,Round
+81,a-52-14556,*,10 mg,White,Round
+82,a-53-14557,*,20 mg,White,Round
+83,a-54-14558,*,40 mg,White,Round
+84,a-6-7-14441,*,875 mg,Pink,Capsule-shape
+85,a-63-18561,*,250 mg / 125 mg,White,Elliptical / Oval
+86,a-64-wyeth-926,lorazepam,1 mg,White,Five-sided
+87,a-66-14440,*,500 mg,Pink,Capsule-shape
+88,a-70-14106,*,0.5 mg,Green,Capsule-shape
+89,a-71-14107,*,1 mg,White,Capsule-shape
+90,a-72-14108,*,2 mg,Orange,Capsule-shape
+91,a-73-14109,*,3 mg,Yellow,Capsule-shape
+92,a-74-14110,*,4 mg,Green,Capsule-shape
+93,a-75-16162,*,10 mg,White,Round
+94,a-ad-7615,ethotoin,250 mg,White,Round
+95,a-ar-2860,fenofibrate,134 mg,White,Capsule-shape
+96,a-bpi-63-5240,lorazepam,0.5 mg,White,Five-sided
+97,a-bpi-64-5237,lorazepam,1 mg,White,Five-sided
+98,a-ea-1053,*,500 mg (erythromycin base),Pink,Elliptical / Oval
+99,a-ec-24100,erythromycin,250 mg,White,Elliptical / Oval
+100,a-ec-953,erythromycin,250 mg,White,Elliptical / Oval
+101,a-ed-24102,erythromycin,500 mg,White,Elliptical / Oval
+102,a-ed-2856,erythromycin,500 mg,White,Elliptical / Oval
+103,a-ed-20143,erythromycin,500 mg,White,Elliptical / Oval
+104,a-eh-24101,erythromycin,333 mg,White,Elliptical / Oval
+105,a-eh-4785,erythromycin,333 mg,White,Elliptical / Oval
+106,a-es-6903,erythromycin,250 mg,Pink,Round
+107,a-et-311,erythromycin,500 mg,Pink,Elliptical / Oval
+108,a-fi-20512,*,48 mg,Yellow,Elliptical / Oval
+109,a-fi-21319,*,48 mg,Yellow,Elliptical / Oval
+110,a-fi-12623,fenofibrate,48 mg,Yellow,Elliptical / Oval
+111,a-fi-22006,*,48 mg,Yellow,Elliptical / Oval
+112,a-fo-21318,*,145 mg,White,Elliptical / Oval
+113,a-fo-12624,fenofibrate,145 mg,White,Elliptical / Oval
+114,a-fo-22007,*,145 mg,White,Elliptical / Oval
+115,a-fr-2834,fenofibrate,67 mg,Yellow,Capsule-shape
+116,a-ft-2566,trandolapril,1 mg,Orange,Round
+117,a-fx-7988,trandolapril,2 mg,Yellow,Round
+118,a-fz-2568,trandolapril,4 mg,Pink,Round
+119,a-gx-eh3-10170,melphalan,2 mg,White,Round
+120,a-hh-555,terazosin,1 mg,Gray,Round
+121,a-hk-557,terazosin,5 mg,Red,Round
+122,a-hn-558,terazosin,10 mg,Blue,Round
+123,a-hy-556,terazosin,2 mg,Yellow,Round
+124,a-kl-20238,*,500 mg,Yellow,Elliptical / Oval
+125,a-le-7141,trimethadione,150 mg,White,Four-sided
+126,a-lf-2876,*,warfarin 10 mg,White,Round
+127,a-ln-2874,*,warfarin 2.5 mg,Orange,Round
+128,a-lo-2875,*,warfarin 5 mg,Pink,Round
+129,a-lr-2865,*,warfarin 7.5 mg,Yellow,Round
+130,a-ls-2867,deserpidine/methyclothiazide,0.25 mg / 5 mg,Yellow,Four-sided
+131,a-lt-2868,deserpidine/methyclothiazide,0.5 mg / 5 mg,Gray,Four-sided
+132,a-sr-1194,fenofibrate,200 mg,Orange,Capsule-shape
+133,a-ta-1192,fenofibrate,54 mg,Yellow,Elliptical / Oval
+134,a-tc-1193,fenofibrate,160 mg,White,Elliptical / Oval
+135,a-te-6969,methamphetamine,5 mg,White,Round
+136,a-th-102,pemoline,18.75 mg,White,Round
+137,a-ti-103,pemoline,37.5 mg,Orange,Round
+138,a-tj-104,pemoline,75 mg,Beige,Round
+139,a-tk-6562,pemoline,37.5 mg,Orange,Four-sided
+140,a-wyeth-81-7789,lorazepam,0.5 mg,White,Five-sided
+141,a-p-500-9728,acetaminophen/oxycodone,300 mg / 5 mg,Yellow,Elliptical / Oval
+142,a-640-10-9684,aripiprazole,10 mg,Pink,Round
+143,a-0-5-23914,*,0.5 mg,Yellow,Capsule-shape
+144,a-003-4554,*,100 mg,Maroon,Round
+145,a-004-745,*,200 mg,Maroon,Round
+146,a-019-7526,*,200 mg,Pink,Round
+147,a-019-8118,guaifenesin,200 mg,Pink,Round
+148,a-020-7793,salsalate,750 mg,*,*
+149,a-024-7456,pergolide,0.05 mg,White,Rectangle
+150,a-026-7458,pergolide,1 mg,Pink,Rectangle
+151,a-026-9574,*,0.125 mg,White,Round
+152,a-027-8226,calcium carbonate,420 mg,White,Round
+153,a-03-800-6895,*,800 mg,White,Elliptical / Oval
+154,a-031-10661,*,Multiple Vitamins with Fluoride 0.5 mg,Purple,Four-sided
+155,a-031-10682,multivitamin with fluoride,Multiple Vitamins with Fluoride 0.5 mg,Purple,Four-sided
+156,a-035-20587,*,30 mg,Red,Round
+157,a-04-22201,*,5 mg,White,Round
+158,a-04-400-8173,*,400 mg,White,Elliptical / Oval
+159,a-040-7120,*,50 mg,White,Round
+160,a-041-6776,*,500 mg / 5 mg,Red & White,Capsule-shape
+161,a-056-7942,*,4 mg,Yellow,Round
+162,a-058-7653,*,400 mg / 75 mg,Blue,*
+163,a-07-8387,*,200 mg,White,Round
+164,a-074-18425,acetaminophen/butalbital/caffeine,"acetaminophen 750 mg, butalbital 50 mg and caffeine 40 mg",Pink,Elliptical / Oval
+165,a-085-7908,choline salicylate/magnesium salicylate,750 mg,White,Elliptical / Oval
+166,a-100-m-16829,*,100 mg,White,Round
+167,a-1000-16142,niacin,1000 mg,Orange,Elliptical / Oval
+168,a-1000-23191,*,1000 mg,Orange,Elliptical / Oval
+169,a-1000-20-16015,niacin/simvastatin,1000 mg / 20 mg,Blue,Capsule-shape
+170,a-1000-40-16016,niacin/simvastatin,1000 mg / 40 mg,Blue,Capsule-shape
+171,a-1002-19263,lovastatin/niacin,20 mg-1000 mg,Pink,Capsule-shape
+172,a-1004-19262,lovastatin/niacin,40 mg-1000 mg,Brown,Capsule-shape
+173,a-101-13389,bupropion,150 mg,White,Round
+174,a-101-14293,*,150 mg,White,Round
+175,a-102-14292,*,300 mg,White,Round
+176,a-11-8714,*,30 mg,Pink,Elliptical / Oval
+177,a-115-8025,belladonna/ergotamine/phenobarbital,0.2 mg / 0.6 mg / 40 mg,Green,Round
+178,a-117-13222,*,150 mg,Yellow,Round
+179,a-127-7171,*,0.5 mg,Purple,Round
+180,a-128-7173,*,1 mg,*,Round
+181,a-13-1917,amoxapine,25 MG,White,Seven-sided
+182,a-131-20586,*,10 mg,Red,Round
+183,a-133-13223,*,150 mg,Yellow,Round
+184,a-135-17149,*,200 mg,Yellow,Elliptical / Oval
+185,a-138-15427,*,325 mg / 200 mg / 16 mg,Yellow & White,Round
+186,a-15-1918,amoxapine,50 MG,Orange,Six-sided
+187,a-150-10683,multivitamin with fluoride,Multiple Vitamins with Fluoride 0.25 mg,*,Round
+188,a-151-13262,*,60 mg,Yellow,Round
+189,a-158-7265,*,50 mg,White,Round
+190,a-159-1431,*,37.5 mg,White & Blue Specks,Elliptical / Oval
+191,a-17-1919,amoxapine,100 MG,Blue,Seven-sided
+192,a-171-16424,*,100 mg,Yellow,Round
+193,a-178-17474,"multivitamin, prenatal",27-1 MG,Yellow,Elliptical / Oval
+194,a-18-1920,amoxapine,150 MG,Orange,Seven-sided
+195,a-180-8438,*,20 mg,White,Round
+196,a-197-6197,*,18.75 mg,White,Round
+197,a-2-65-wyeth-927,lorazepam,2 mg,White,Five-sided
+198,a-2-bpi-65-16062,lorazepam,2 mg,White,Five-sided
+199,a-20-20570,*,25 mg,Pink & White,Capsule-shape
+200,a-206-9569,*,0.125 mg,Blue,Round
+201,a-212-15422,atropine/hyoscyamine/phenobarbital/scopolamine,belladonna alkaloids-phenobarbital 48mg,Green,Round
+202,a-214-14252,*,15 mg,Green,Round
+203,a-215-8234,*,30 mg,Blue,Round
+204,a-221-19581,*,100 mg,White,Round
+205,a-222-19582,*,200 mg,White,Elliptical / Oval
+206,a-225-9146,propafenone,225 mg,White,Capsule-shape
+207,a-239-9279,hydrochlorothiazide/quinapril,12.5 mg / 20 mg,Orange,Three-sided
+208,a-24-19414,loratadine,10 mg,Orange,Round
+209,a-24-19415,loratadine,10 mg,Pink,Round
+210,a-240-9280,hydrochlorothiazide/quinapril,25 mg / 20 mg,Orange,Round
+211,a-242-10887,*,10 mg,Brown,Three-sided
+212,a-243-10884,*,20 mg,Brown,Round
+213,a-244-10885,*,40 mg,Brown,Elliptical / Oval
+214,a-25-21931,*,25 mg,Peach,Round
+215,a-25-m-16827,*,25 mg,White,Round
+216,a-265-13244,*,25 mg,Yellow,Round
+217,a-266-13245,*,50 mg,Yellow,Round
+218,a-267-13246,*,75 mg,Yellow,Round
+219,a-268-15771,*,5 mg,White,Round
+220,a-269-15772,*,10 mg,White,Round
+221,a-270-15773,*,25 mg,Yellow,Round
+222,a-271-15774,*,50 mg,Yellow,Round
+223,a-285-13258,*,7.5 mg,Yellow,Round
+224,a-286-13259,*,15 mg,Yellow,Elliptical / Oval
+225,a-293-a-293-13280,*,25 mg,Blue & Yellow,Capsule-shape
+226,a-294-a-294-13281,*,50 mg,Blue & Orange,Capsule-shape
+227,a-295-a-295-20979,*,100 mg,Blue & White,Capsule-shape
+228,a-301-6151,*,5 mg,Orange,Round
+229,a-311-11695,*,10 mg,Orange,Round
+230,a-312-11696,*,25 mg,Green,Round
+231,a-313-11697,*,50 mg,Yellow,Round
+232,a-325-9147,propafenone,325 mg,White,Capsule-shape
+233,a-327-15986,*,35 mg,Yellow,Round
+234,a-328-18940,*,5 mg,White,Round
+235,a-329-18941,*,10 mg,White,Round
+236,a-42-250-mg-14460,*,250 mg,Green & White,Capsule-shape
+237,a-425-9148,propafenone,425 mg,White,Capsule-shape
+238,a-43-500-mg-14461,*,500 mg,Green,Capsule-shape
+239,a-44-14438,*,250 mg,Blue & Pink,Capsule-shape
+240,a-45-14439,*,500mg,Blue & Pink,Capsule-shape
+241,a-45-ll-1857,*,2 MG,White,Round
+242,a-48-22202,*,10 mg,Pink,Round
+243,a-49-22203,*,15 mg,Green,Round
+244,a-49-ll-1866,*,50 MG,White,Round
+245,a-50-22204,*,20 mg,Gray,Round
+246,a-50-m-16828,*,50 mg,White,Round
+247,a-500-16140,niacin,500 mg,Orange,Capsule-shape
+248,a-500-23189,*,500 mg,Orange,Capsule-shape
+249,a-500-20-16012,niacin/simvastatin,500 mg / 20 mg,Blue,Capsule-shape
+250,a-500-40-16013,niacin/simvastatin,500 mg / 40 mg,Blue,Capsule-shape
+251,a-502-19264,lovastatin/niacin,20 mg-500 mg,Yellow,Capsule-shape
+252,a-51-22205,*,30 mg,Blue,Round
+253,a-51-ll-1875,*,0.25 MG,White,Elliptical / Oval
+254,a-510-14132,*,250 mg,White,Elliptical / Oval
+255,a-511-15237,*,500 mg,White,Elliptical / Oval
+256,a-52-ll-1876,*,0.5 MG,Yellow,Elliptical / Oval
+257,a-53-ll-1877,*,1 MG,Yellow,Elliptical / Oval
+258,a-585-4838,carbidopa/levodopa,25 mg / 100 mg,Yellow,Round
+259,a-587-4839,carbidopa/levodopa,25 MG-250 MG,Blue,Round
+260,a-592-4760,tizanidine,2 MG,White,Round
+261,a-594-1265,tizanidine,4 mg,White,Round
+262,a-641-15-9685,aripiprazole,15 mg,Yellow,Round
+263,a-71-ll-1867,*,100 MG,White,Round
+264,a-73-23629,*,10 mg,Beige,Round
+265,a-75-23896,*,0.5 mg,Yellow,Capsule-shape
+266,a-750-16141,niacin,750 mg,Orange,Capsule-shape
+267,a-750-23190,*,750 mg,Orange,Capsule-shape
+268,a-750-4000,*,750 mg,Yellow,Elliptical / Oval
+269,a-750-20-16014,niacin/simvastatin,750 mg / 20 mg,Blue,Capsule-shape
+270,a-752-19261,lovastatin/niacin,20 mg-750 mg,Orange,Capsule-shape
+271,a-77-18844,*,200 mg,Blue,Capsule-shape
+272,a-9-22083,*,75 mg (base),Pink,Round
+273,a-a-4371,chlorpheniramine/phenylephrine/phenylpropanolamine/pyrilamine,,White,Elliptical / Oval
+274,a-a-a-22288,doxycycline,doxycycline hyclate 150 mg,Green,Capsule-shape
+275,a-am-2820,trimethadione,300 mg,White,Capsule-shape
+276,a-b-23352,*,25 mg,White,Elliptical / Oval
+277,a-b-6980,metoprolol,25 mg,White,Elliptical / Oval
+278,a-cd-21513,candesartan/hydrochlorothiazide,32 mg / 25 mg,Pink,Elliptical / Oval
+279,a-cd-20922,*,32 mg / 25 mg,Pink,Elliptical / Oval
+280,a-cf-004-21127,*,4 mg,White,Round
+281,a-cf-004-8331,candesartan,4 mg,White,Round
+282,a-cg-008-21128,*,8 mg,Pink,Round
+283,a-cg-008-8332,candesartan,8 mg,Pink,Round
+284,a-ch-016-21129,*,16 mg,Pink,Round
+285,a-ch-016-1224,candesartan,16 mg,Pink,Round
+286,a-cj-21512,candesartan/hydrochlorothiazide,32 mg / 12.5 mg,Yellow,Elliptical / Oval
+287,a-cj-20921,*,32 mg / 12.5 mg,Yellow,Elliptical / Oval
+288,a-cj-322-1372,candesartan/hydrochlorothiazide,32 mg / 12.5 mg,Yellow,Elliptical / Oval
+289,a-cl-032-10015,candesartan,32 mg,Pink,Round
+290,a-cl-032-21130,*,32 mg,Pink,Round
+291,a-cs-21511,candesartan/hydrochlorothiazide,16 mg / 12.5 mg,Peach,Elliptical / Oval
+292,a-cs-20920,*,16 mg / 12.5 mg,Peach,Elliptical / Oval
+293,a-cs-162-1378,candesartan/hydrochlorothiazide,16 mg / 12.5 mg,Peach,Elliptical / Oval
+294,a-d-15-20514,amphetamine/dextroamphetamine,15 mg,Orange,Elliptical / Oval
+295,a-ds-100-8088,ritonavir,100 mg,White,Capsule-shape
+296,a-eb-1054,*,250 mg (erythromycin base),Pink,Elliptical / Oval
+297,a-ec-23383,erythromycin,250 mg,Pink,Elliptical / Oval
+298,a-ed-955,erythromycin,500 mg,Pink,Elliptical / Oval
+299,a-ee-1052,erythromycin,400 mg,Pink,Elliptical / Oval
+300,a-ee-13618,*,400 mg,Pink,Elliptical / Oval
+301,a-eh-954,erythromycin,333 mg,White,Elliptical / Oval
+302,a-ek-951,erythromycin,500 mg,White,Elliptical / Oval
+303,a-enduron-2866,methyclothiazide,5 MG,Red,Four-sided
+304,a-er-a-er-2851,*,250 mg (erythromycin base),Red / Clear,Capsule-shape
+305,a-hc-1336,divalproex sodium,500 mg,Gray,Elliptical / Oval
+306,a-hc-22725,*,500 mg,Gray,Elliptical / Oval
+307,a-hf-1334,divalproex sodium,250 mg,White,Elliptical / Oval
+308,a-hf-22724,*,250 mg,White,Elliptical / Oval
+309,a-i-p-1000-9726,acetaminophen/oxycodone,300 mg / 10 mg,Orange,Elliptical / Oval
+310,a-i-p-250-9727,acetaminophen/oxycodone,300 mg / 2.5 mg,Blue,Round
+311,a-i-p-750-9729,acetaminophen/oxycodone,300 mg / 7.5 mg,Red,Elliptical / Oval
+312,a-id-4700,*,60 mg,Yellow,Elliptical / Oval
+313,a-ih-18786,hydrochlorothiazide/metoprolol,hydrochlorothiazide 12.5 mg / metoprolol 25 mg,Yellow,Round
+314,a-ik-18785,hydrochlorothiazide/metoprolol,hydrochlorothiazide 12.5 mg / metoprolol 50 mg,Orange,Round
+315,a-il-18784,hydrochlorothiazide/metoprolol,hydrochlorothiazide 12.5 mg / metoprolol 100 mg,Yellow,Round
+316,a-ka-8586,lopinavir/ritonavir,200 mg / 50 mg,Yellow,Elliptical / Oval
+317,a-kc-10948,lopinavir/ritonavir,100 mg-25 mg,Yellow,Elliptical / Oval
+318,a-kj-1331,clarithromycin,500 mg,Yellow,Elliptical / Oval
+319,a-kl-949,clarithromycin,500 mg,Yellow,Elliptical / Oval
+320,a-kt-20134,*,250 mg,Yellow,Elliptical / Oval
+321,a-kt-950,clarithromycin,250 mg,Yellow,Elliptical / Oval
+322,a-l-g-2-16616,*,2 mg,White,Rectangle
+323,a-l-p-r-a-p-o-2-16620,*,2 mg,White,Rectangle
+324,a-mo-23353,*,50 mg,White,Round
+325,a-mo-6981,metoprolol,50 mg,White,Round
+326,a-ms-23354,*,100 mg,White,Round
+327,a-ms-6982,metoprolol,100 mg,White,Round
+328,a-my-23355,*,200 mg,White,Elliptical / Oval
+329,a-my-6983,metoprolol,200 mg,White,Elliptical / Oval
+330,a-ne-2907,niacin,500 MG,Yellow,Elliptical / Oval
+331,a-nk-15592,ritonavir,100 mg,White,Elliptical / Oval
+332,a-nr-228,divalproex sodium,250 mg,Orange,Elliptical / Oval
+333,a-ns-229,divalproex sodium,500 mg,Pink,Elliptical / Oval
+334,a-nt-6876,divalproex sodium,125 mg,Pink,Elliptical / Oval
+335,a-p-30-4-9497,chlorpheniramine/pseudoephedrine,4 mg / 30 mg,Purple,Round
+336,a-p-680-13000,acetaminophen/oxycodone,300 mg / 2.5 mg,Blue,Round
+337,a-p-681-13001,acetaminophen/oxycodone,300 mg / 5 mg,Yellow,Elliptical / Oval
+338,a-p-682-13002,acetaminophen/oxycodone,300 mg / 7.5 mg,Red,Elliptical / Oval
+339,a-p-683-13003,acetaminophen/oxycodone,300 mg / 10 mg,Orange,Elliptical / Oval
+340,a-pk-12629,lopinavir/ritonavir,133.3 mg / 33.3 mg,Orange,Capsule-shape
+341,a-s-nt-18497,aspirin/dextromethorphan/doxylamine/phenylephrine,aspirin 500 mg / dextromethorphan 10 mg / doxylamine 6.25 mg / phenylephrine bitartrate 7.8 mg,White,Round
+342,a-tl-t-2835,clorazepate,3.75 mg,Blue,U-shape
+343,a-tm-t-2836,clorazepate,7.5 mg,Purple,U-shape
+344,a-tn-t-2837,clorazepate,15 mg,Pink,U-shape
+345,a-uc-2822,estazolam,1 mg,White,Four-sided
+346,a-ud-952,estazolam,2 mg,Orange,Figure eight-shape
+347,a-z-7995,*,50 mg,Yellow,Round
+348,a-za-23314,*,1 mcg,Gray,Elliptical / Oval
+349,a-zf-23315,*,2 mcg,Brown,Elliptical / Oval
+350,a-002-16224,hyoscyamine/methenamine/methylene blue/phenyl salicylate/sodium biphosphate,0.12 mg / 81 mg / 10.8 mg / 32.4 mg,Blue,Round
+351,a-006-2-8962,aripiprazole,2 mg,Green,Rectangle
+352,a-007-5-1652,aripiprazole,5 mg,Blue,Rectangle
+353,a-008-10-8961,aripiprazole,10 mg,Pink,Rectangle
+354,a-009-15-8963,aripiprazole,15 mg,Yellow,Round
+355,a-010-20-8964,aripiprazole,20 mg,White,Round
+356,a-011-30-8965,aripiprazole,30 mg,Pink,Round
+357,a-018-7803,*,5 mg / 2.5 mg,Green,Capsule-shape
+358,a-039-a-039-6193,acetaminophen/dichloralphenazone/isometheptene mucate,325 mg / 100 mg / 65 mg,White,Capsule-shape
+359,a-059-a-059-5859,guaifenesin/phenylephrine/phenylpropanolamine,200 mg / 5 mg / 45 mg,Red / White,Capsule-shape
+360,a-060-a-060-10718,*,300 mg,Pink & White,Capsule-shape
+361,a-10-mg-a-10-mg-21322,*,10 mg,Brown & White,Capsule-shape
+362,a-10-mg-a-10-mg-21177,acitretin,10 mg,Brown & White,Capsule-shape
+363,a-120-9657,*,25 mg / 600 mg / 20 mg,White,Elliptical / Oval
+364,a-136-6787,*,350 mg,White,Round
+365,a-17-5-mg-a-17-5-mg-17131,acitretin,17.5 mg,Yellow,Capsule-shape
+366,a-187-a-187-14251,*,5 mg,Brown & Peach,Capsule-shape
+367,a-22-5-mg-a-22-5-mg-17132,acitretin,22.5 mg,Brown,Capsule-shape
+368,a-24-19413,loratadine,10 mg,White,Round
+369,a-25-mg-a-25-mg-21178,acitretin,25 mg,Brown & Yellow,Capsule-shape
+370,a-25mg-a-25mg-21323,*,25 mg,Brown & Yellow,Capsule-shape
+371,a-263-a-263-13256,*,2.5 mg,White,Capsule-shape
+372,a-264-10065,*,5 mg,Pink,Capsule-shape
+373,a-309-a-309-13221,*,100 mg,Orange,Capsule-shape
+374,a-c-40-12-5-18354,azilsartan medoxomil/chlorthalidone,40 mg / 12.5 mg,Red,Round
+375,a-c-40-25-18355,azilsartan medoxomil/chlorthalidone,40 mg / 25 mg,Red,Round
+376,a-n-18099,doxylamine,5 mg,Orange,Elliptical / Oval
+377,a-p-12-5-15-20502,alogliptin/pioglitazone,12.5 mg / 15 mg,Yellow,Round
+378,a-p-12-5-30-20503,alogliptin/pioglitazone,12.5 mg / 30 mg,Peach,Round
+379,a-p-12-5-45-20504,alogliptin/pioglitazone,12.5 mg / 45 mg,Red,Round
+380,a-p-25-15-20499,alogliptin/pioglitazone,25 mg / 15 mg,Yellow,Round
+381,a-p-25-30-20500,alogliptin/pioglitazone,25 mg / 30 mg,Peach,Round
+382,a-p-25-45-20501,alogliptin/pioglitazone,25 mg / 45 mg,Red,Round
+383,a-s-4417,acetaminophen/chlorpheniramine/pseudoephedrine,,Green,Round
+384,a-9556,zolpidem,6.25 mg,Pink,Round
+385,a-9557,zolpidem,12.5 mg,Blue,Round
+386,a01-9258,clozapine,25 mg,Yellow,Round
+387,a019-7792,salsalate,500 mg,*,Round
+388,a02-9259,clozapine,100 mg,Yellow,Round
+389,a02-400-11989,*,400 mg,White,Elliptical / Oval
+390,a05-20048,*,12.5 mg,Yellow,Round
+391,a05-10436,clozapine,12.5 mg,Yellow,Round
+392,a05-200-6896,*,200 mg,Blue,Capsule-shape
+393,a06-20049,*,25 mg,Yellow,Round
+394,a06-17138,clozapine,25 mg,Yellow,Round
+395,a08-20050,*,100 mg,Yellow,Round
+396,a08-17139,clozapine,100 mg,Yellow,Round
+397,a09-23008,*,150 mg,Yellow,Round
+398,a09-17140,clozapine,150 mg,Yellow,Round
+399,a1-17454,*,325 mg,White,Round
+400,a1-6714,*,1 mg,White,Round
+401,a1-24178,amphetamine,3.1 mg,Orange,Round
+402,a1-18555,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1 mg,Peach,Round
+403,a1-18559,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1 mg,Peach,Round
+404,a1-15766,"multivitamin, prenatal",,White,Capsule-shape
+405,a1-17816,*,1 mg,White,Round
+406,a1-17826,*,12.5 mg,Yellow,Round
+407,a1-14016,*,100 mg,Yellow,Elliptical / Oval
+408,a1-24007,*,2.5 mg,Blue,Round
+409,a1-20452,*,100 mg,Yellow,Elliptical / Oval
+410,a1-24308,*,6.25 mg,White,Round
+411,a1-aspirin-6531,*,325 mg,White,Round
+412,a1-f-6510,triamcinolone,1 mg,*,*
+413,a1-05-16999,*,50 mg,Yellow,Capsule-shape
+414,a1-06-7533,guaifenesin,600 mg,Green,Elliptical / Oval
+415,a10-15528,dalfampridine,10 mg,White,Elliptical / Oval
+416,a10-21217,*,10 mg,White,Round
+417,a10-23009,*,200 mg,Yellow,Round
+418,a10-17141,clozapine,200 mg,Yellow,Round
+419,a100-20365,*,100 mg,White,Elliptical / Oval
+420,a100-g-6579,*,100 mg,White,Round
+421,a116-16726,*,12.5 mg,White,Round
+422,a117-17923,*,6.25 mg,Yellow,Round
+423,a117-7155,*,25 mg,Pink,Round
+424,a124-7172,*,0.25 mg,Orange,Round
+425,a129-12-5-mg-18044,*,12.5 mg,Green,Elliptical / Oval
+426,a134-8291,*,3 mg,Blue,Elliptical / Oval
+427,a135-8292,*,micronized 6 mg,Yellow,Elliptical / Oval
+428,a137-6541,*,325 mg / 200 mg,Red & White,Round
+429,a139-8163,*,30 mg / 600 mg,Green,Elliptical / Oval
+430,a139-7914,dextromethorphan/guaifenesin,30 mg-600 mg,Green,*
+431,a140-6818,*,1.5 mg / 5 mg,White,Round
+432,a143-9568,*,0.125 mg,White,Round
+433,a145-7055,*,125 mcg (0.125 mg),*,*
+434,a146-7054,*,250 mcg (0.25 mg),*,*
+435,a147-7058,*,500 mcg (0.5 mg),*,*
+436,a15-8513,*,15 mg,White,Rectangle
+437,a155-9570,*,0.125 mg,Blue,Round
+438,a156-8716,*,0.375 mg,*,Elliptical / Oval
+439,a157-7264,*,100 mg,White,Round
+440,a159-17710,*,100 mg,Blue,Round
+441,a160-17711,*,150 mg,Purple,Round
+442,a160-8664,*,30 mg,Yellow,Capsule-shape
+443,a161-17712,*,200 mg,Red,Round
+444,a161-8393,*,37.5 mg,Orange,Round
+445,a162-8394,*,75 mg,Orange,Round
+446,a163-8715,*,0.375 mg,Clear,Elliptical / Oval
+447,a166-7642,*,250 mg,Blue,*
+448,a169-0-4-20733,*,0.4 mg,Green & Yellow,Capsule-shape
+449,a171-17475,"multivitamin, prenatal",27-0.5 MG,White,Elliptical / Oval
+450,a172-6665,*,10 mg-300 mg,Red,Elliptical / Oval
+451,a175-100-20699,*,100 mg,Blue & White,Capsule-shape
+452,a176-150-20700,*,150 mg,Purple / White,Capsule-shape
+453,a177-15-20655,*,15 mg,Orange / Red,Capsule-shape
+454,a178-30-20656,*,30 mg,Orange & White,Capsule-shape
+455,a179-8437,*,10 mg,White,Round
+456,a185-7643,*,300 mg,Purple,Capsule-shape
+457,a186-8395,*,37.5 mg,Orange,Four-sided
+458,a190-7266,*,50 mg / 25 mg,*,*
+459,a195-18146,*,500 mg,White,Elliptical / Oval
+460,a2-16417,*,6.25 mg,White,Round
+461,a2-6715,*,2 mg,Yellow,Round
+462,a2-24179,amphetamine,6.3 mg,Orange,Round
+463,a2-18556,ethinyl estradiol/norethindrone,inert,Green,Round
+464,a2-18560,ethinyl estradiol/norethindrone,inert,Green,Round
+465,a2-14017,*,200 mg,Yellow,Capsule-shape
+466,a2-24008,*,5 mg,Yellow,Round
+467,a2-17904,*,inert,Green,Round
+468,a2-24309,*,12.5 mg,White,Round
+469,a2-25-21614,*,75 mg,White,Elliptical / Oval
+470,a2-26-21615,*,100 mg,White,Elliptical / Oval
+471,a2-38-9278,hydrochlorothiazide/quinapril,12.5 mg / 10 mg,Orange,Elliptical / Oval
+472,a2-41-12548,*,5 mg,Brown,Elliptical / Oval
+473,a2-53-10281,guaifenesin/phenylephrine,600 mg-30 mg,White,Elliptical / Oval
+474,a204-17713,*,150 mg,Purple,Round
+475,a211-7339,*,0.5 mg / 50 mg,Yellow,Elliptical / Oval
+476,a213-8483,*,650 mg / 25 mg,Blue,Elliptical / Oval
+477,a214-18147,*,750 mg,Yellow,Elliptical / Oval
+478,a223-19583,*,300 mg,White,Elliptical / Oval
+479,a226-9005,*,15 mg,Yellow,Elliptical / Oval
+480,a227-9006,*,30 mg,Beige,Elliptical / Oval
+481,a228-9007,*,45 mg,White,Elliptical / Oval
+482,a234-8926,*,4 mg,White,Round
+483,a245-8836,*,1200 mg,White,Elliptical / Oval
+484,a246-8729,*,60 mg-1200 mg,*,Elliptical / Oval
+485,a254-18973,*,15 mg,White,Round
+486,a255-18974,*,30 mg,White,Round
+487,a256-18975,*,45 mg,White,Round
+488,a257-21564,*,0.1 mg,White,Round
+489,a297-22627,*,30 mg,Gray,Capsule-shape
+490,a2c-3331,digoxin,0.05 mg,Red,Elliptical / Oval
+491,a3-19737,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Orange,Round
+492,a3-24180,amphetamine,9.4 mg,Orange,Round
+493,a3-22650,ethinyl estradiol/folic acid/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Orange,Round
+494,a3-18558,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.75 mg,Peach,Round
+495,a3-24009,*,10 mg,White,Round
+496,a3-18401,*,"ergocalciferol 1.25 mg (50,000 USP units vitamin D)",Green,Elliptical / Oval
+497,a302-21565,*,0.2 mg,White,Round
+498,a302-10110,*,10 mg,Yellow,Round
+499,a31-23909,*,5 mg,Purple,Round
+500,a32-23910,*,10 mg,Pink,Round
+501,a325-23542,*,10 mg,Green,Capsule-shape
+502,a33-14878,*,250 mg,White,Elliptical / Oval
+503,a33-20569,*,25 mg,Yellow,Capsule-shape
+504,a33-23911,*,15 mg,White,Round
+505,a331-21732,*,325 mg / 2.5 mg,White,Elliptical / Oval
+506,a332-21734,*,325 mg / 7.5 mg,White,Elliptical / Oval
+507,a333-21735,*,325 mg / 10 mg,White,Capsule-shape
+508,a34-14879,*,500 mg,White,Elliptical / Oval
+509,a349-21733,*,325 mg / 5 mg,White,Round
+510,a356-20170,*,200 mg,Blue,Capsule-shape
+511,a4-24181,amphetamine,12.5 mg,Orange,Round
+512,a4-18557,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.5 mg,White,Round
+513,a4-22967,*,2.5 mg,White,Round
+514,a4-ll-6511,triamcinolone,4 mg,White,Elliptical / Oval
+515,a401-23971,dexbrompheniramine/pseudoephedrine,dexbrompheniramine maleate 2 mg / pseudoephedrine hydrochloride 60 mg,White,Elliptical / Oval
+516,a49-22968,*,5 mg,White,Round
+517,a5-20331,ponatinib,15 mg,White,Round
+518,a5-24182,amphetamine,15.7 mg,Orange,Round
+519,a5-20343,*,95 mg,Red,Round
+520,a5-23686,*,5 mg,White,Round
+521,a5-18910,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg,Orange,Round
+522,a5-21216,*,5 mg,White,Round
+523,a5-c-21683,*,25 mg,Peach,Round
+524,a50-20364,*,50 mg,White,Elliptical / Oval
+525,a50-22969,*,10 mg,White,Round
+526,a50-g-6578,*,50 mg,White,Round
+527,a500-17313,*,500 mg,White,Round
+528,a500-17314,*,500 mg,White,Capsule-shape
+529,a500-a500-1721,acetaminophen/propoxyphene,500 mg / 100 mg,Orange,Elliptical / Oval
+530,a51-22970,*,20 mg,White,Round
+531,a514-16974,*,500 mg,Yellow,Elliptical / Oval
+532,a533-1-mg-23234,*,1 mg,White,Round
+533,a534-2-mg-23235,*,2 mg,White,Capsule-shape
+534,a536-3-mg-23236,*,3 mg,Blue,Round
+535,a538-4-mg-23237,*,4 mg,Blue,Capsule-shape
+536,a54-l-l-1878,*,2 MG,Green,Rectangle
+537,a59-14510,*,40 mg,Pink,Elliptical / Oval
+538,a6-24183,amphetamine,18.8 mg,Orange,Round
+539,a6-18911,ethinyl estradiol/levonorgestrel,inert,Pink,Round
+540,a615-4840,pergolide,0.05 MG,Yellow,Rectangle
+541,a625-760,pergolide,0.25 mg,Green,Rectangle
+542,a652-15177,docusate/senna,docusate sodium 50 mg / sennosides 8.6 mg,Orange,Round
+543,a694-13349,psyllium,500 mg,Orange,*
+544,a7-15950,*,1 mg,White,Round
+545,a7-17903,*,ethinyl estradiol 0.035 mg / norgestimate 0.25 mg,Blue,Round
+546,a733-10-mg-20371,lomitapide,10 mg,Orange & White,Capsule-shape
+547,a733-20-mg-20372,lomitapide,20 mg,White,Capsule-shape
+548,a733-5-mg-20370,lomitapide,5 mg,Orange,Capsule-shape
+549,a75-6777,*,325 mg / 5 mg,White,Round
+550,a77-w-17255,chloroquine,500 mg,White,Round
+551,a8-24141,*,1 mcg,Gray,Elliptical / Oval
+552,a8-17902,*,ethinyl estradiol 0.035 mg / norgestimate 0.215 mg,Blue,Round
+553,a83-24142,*,2 mcg,Brown,Elliptical / Oval
+554,a84-24143,*,4 mcg,Yellow,Elliptical / Oval
+555,a9-17901,*,ethinyl estradiol 0.035 mg / norgestimate 0.18 mg,White,Round
+556,a92-19712,*,100 mg,Red,Elliptical / Oval
+557,a92-21678,*,500 mg,Red,Round
+558,a99-20614,*,50 mg,Blue,Elliptical / Oval
+559,aa-820-20642,*,250 mg,Brown / Beige,Capsule-shape
+560,aa-825-19446,*,500 mg,Brown,Capsule-shape
+561,aa1-23631,*,10 mg,Red,Capsule-shape
+562,aa250-17430,abiraterone,250 mg,White,Elliptical / Oval
+563,aaa-1031-20572,*,500 mg / 25 mg,Blue,Elliptical / Oval
+564,aaa-1094-20573,*,500 mg / 12.5 mg,Yellow,Elliptical / Oval
+565,aaa-1098-20574,*,500 mg,White,Elliptical / Oval
+566,aaa-1114-20575,*,325 mg / 5 mg,Green,Elliptical / Oval
+567,aaa-1115-20588,*,325 mg / 12.5 mg / 5 mg,White,Elliptical / Oval
+568,aaa-1116-20576,*,325 mg / 25 mg / 5 mg,Blue,Elliptical / Oval
+569,aaa-1117-20577,*,325 mg / 2 mg / 5 mg,White,Elliptical / Oval
+570,aaa-1119-21581,*,325 mg / 200 mg / 5 mg,White,Elliptical / Oval
+571,aaa-1134-20578,*,325 mg / 10 mg / 100 mg / 5 mg,Orange,Elliptical / Oval
+572,aaa-1136-20579,*,325 mg / 10 mg / 200 mg / 5 mg,Yellow,Elliptical / Oval
+573,aaa-1138-20580,*,acetaminophen 325 mg / dextromethorphan hydrobromide 10 mg / phenylephrine hydrochloride 5 mg,White,Elliptical / Oval
+574,aaa-1139-20581,*,acetaminophen 325 mg / chlorpheniramine maleate 2 mg / dextromethorphan HBr 10 mg / phenylephrine HCl 5 mg,Blue,Elliptical / Oval
+575,aaa-115-20585,*,325 mg / 12.5 mg / 5 mg,Green,Elliptical / Oval
+576,aat-051-18318,*,5 mg / 10 mg,White,Elliptical / Oval
+577,aat-051-mylan-18310,*,5 mg / 10 mg,White,Elliptical / Oval
+578,aat-052-18319,*,5 mg / 20 mg,White,Elliptical / Oval
+579,aat-052-mylan-18311,*,5 mg / 20 mg,White,Elliptical / Oval
+580,aat-054-18320,*,5 mg / 40 mg,White,Elliptical / Oval
+581,aat-054-mylan-18312,*,5 mg / 40 mg,White,Elliptical / Oval
+582,aat-058-18321,*,5 mg / 80 mg,White,Elliptical / Oval
+583,aat-058-mylan-18313,*,5 mg / 80 mg,White,Elliptical / Oval
+584,aat-101-18322,*,10 mg / 10 mg,Blue,Elliptical / Oval
+585,aat-101-mylan-18314,*,10 mg / 10 mg,Blue,Elliptical / Oval
+586,aat-102-18323,*,10 mg / 20 mg,Blue,Elliptical / Oval
+587,aat-102-mylan-18315,*,10 mg / 20 mg,Blue,Elliptical / Oval
+588,aat-104-18324,*,10 mg / 40 mg,Blue,Elliptical / Oval
+589,aat-104-mylan-18316,*,10 mg / 40 mg,Blue,Elliptical / Oval
+590,aat-108-18325,*,10 mg / 80 mg,Blue,Elliptical / Oval
+591,aat-108-mylan-18317,*,10 mg / 80 mg,Blue,Elliptical / Oval
+592,ab-8826,pamabrom,50 mg,Blue,Round
+593,abana-500-4374,*,acetaminophen 500 mg / hydrocodone bitartrate 5 mg,White,Capsule-shape
+594,abg-10-10898,*,10 mg,White,Round
+595,abg-100-15734,*,100 mg,Gray,Round
+596,abg-15-15731,*,15 mg,Blue,Round
+597,abg-20-10899,*,20 mg,Pink,Round
+598,abg-200-11482,*,200 mg,Green,Rectangle
+599,abg-30-15732,*,30 mg,Purple,Round
+600,abg-40-10900,*,40 mg,Orange,Round
+601,abg-60-15733,*,60 mg,Orange,Round
+602,abg-80-10901,*,80 mg,Green,Round
+603,abrika-108-abrika-108-13022,*,2.5 mg,Brown,Capsule-shape
+604,abrika-109-abrika-109-13023,*,5 mg,Yellow,Capsule-shape
+605,abrs-123-11495,*,20 mEq (1500 mg),White,Elliptical / Oval
+606,ac-1000-62-5-2323,amoxicillin/clavulanate,1000 mg / 62.5 mg,White,Elliptical / Oval
+607,accolate-10-20527,*,10 mg,White,Round
+608,accolate-10-17034,zafirlukast,10 mg,White,Round
+609,accolate-10-zeneca-8085,zafirlukast,10 mg,White,Round
+610,accolate-20-20528,*,20 mg,White,Round
+611,accolate-20-17035,zafirlukast,20 mg,White,Round
+612,accolate-20-zeneca-1231,zafirlukast,20 mg,White,Round
+613,accuhist-010-1717,atropine/chlorpheniramine/hyoscyamine/phenylephrine/scopolamine,-,White,Elliptical / Oval
+614,accutane-10-roche-6457,isotretinoin,10 mg,Pink,Elliptical / Oval
+615,accutane-20-roche-6459,isotretinoin,20 mg,Maroon,Elliptical / Oval
+616,accutane-40-roche-6458,isotretinoin,40 mg,Yellow,Elliptical / Oval
+617,aceon-2-slv-slv-23374,perindopril,2 mg,White,Capsule-shape
+618,aceon-4-slv-slv-23375,perindopril,4 mg,Pink,Capsule-shape
+619,aceon-8-slv-slv-23376,perindopril,8 mg,Pink,Capsule-shape
+620,aciphex-20-4660,rabeprazole,20 MG,Yellow,Round
+621,acn-2-21920,perindopril,2 mg,White,Capsule-shape
+622,acn-2-slv-slv-10259,perindopril,2 mg,White,Elliptical / Oval
+623,acn-4-21921,perindopril,4 mg,Pink,Capsule-shape
+624,acn-4-22744,*,4 mg,Pink,Capsule-shape
+625,acn-4-slv-slv-10260,perindopril,4 mg,Pink,Elliptical / Oval
+626,acn-8-21922,perindopril,8 mg,Peach,Capsule-shape
+627,acn-8-22745,*,8 mg,Pink,Capsule-shape
+628,acn-8-slv-slv-10261,perindopril,8 mg,Orange,Elliptical / Oval
+629,actifed-m2a-2977,pseudoephedrine/triprolidine,60 mg / 2.5 mg,White,Round
+630,actifed-plus-3854,*,500 mg / 30 mg / 1.25 mg,Green,Round
+631,actifed-plus-5816,*,500 mg / 30 mg / 1.25 mg,Green,Elliptical / Oval
+632,actigall-300-mg-316,ursodiol,300 mg,Pink & White,Capsule-shape
+633,actos-15-1463,pioglitazone,15 mg,White,Round
+634,actos-15-21183,*,15 mg,White,Round
+635,actos-30-21184,*,30 mg,White,Round
+636,actos-30-8404,pioglitazone,30 mg,White,Round
+637,actos-45-1465,pioglitazone,45 mg,White,Round
+638,actos-45-21185,*,45 mg,White,Round
+639,acx-10mg-20794,rabeprazole,10 mg,Yellow & White,Capsule-shape
+640,acx-5mg-20793,rabeprazole,5 mg,Blue & White,Capsule-shape
+641,acy-800-356,*,800 mg,White,Elliptical / Oval
+642,acy200-6894,*,200 mg,White,Capsule-shape
+643,ad-2869,ethotoin,250 MG,White,Round
+644,ad-1-0-1131,amphetamine/dextroamphetamine,10 mg,Blue,Round
+645,ad-2-0-20513,amphetamine/dextroamphetamine,20 mg,Orange,Round
+646,ad-20-1132,amphetamine/dextroamphetamine,20 mg,Orange,Round
+647,ad-30-1123,amphetamine/dextroamphetamine,30 mg,Orange,Round
+648,ad-5-1120,amphetamine/dextroamphetamine,5 mg,White,Round
+649,ad-7-5-1121,amphetamine/dextroamphetamine,7.5 mg,Blue,Elliptical / Oval
+650,adalat-10-2273,nifedipine,10 mg,Orange,Capsule-shape
+651,adalat-20-2274,nifedipine,20 mg,Orange,Capsule-shape
+652,adalat-cc-30-932,nifedipine,30 mg,Pink,Round
+653,adalat-cc-30-23024,*,30 mg,Pink,Round
+654,adalat-cc-60-933,nifedipine,60 mg,Pink,Round
+655,adalat-cc-60-23025,*,60 mg,Pink,Round
+656,adalat-cc-90-934,nifedipine,90 mg,Red,Round
+657,adalat-cc-90-23026,*,90 mg,Red,Round
+658,adams-002-6388,dextromethorphan/guaifenesin,60 mg / 1200 mg,Blue,Elliptical / Oval
+659,adams-012-4604,dextromethorphan/guaifenesin/potassium guaiacolsulfonate,30 mg / 600 mg,Green,Elliptical / Oval
+660,adams-017-902,guaifenesin/phenylephrine,600 mg / 60 mg,Blue,Capsule-shape
+661,adams-043-1695,*,60 mg / 1200 mg / 120 mg,Yellow,Elliptical / Oval
+662,adams-047-1497,*,1200 mg / 60 mg,Green,Elliptical / Oval
+663,adams-1200-10081,guaifenesin,1200 mg,Blue & White,Elliptical / Oval
+664,adams-600-22864,dextromethorphan/guaifenesin,dextromethorphan hydrobromide 30 mg / guaifenesin 600 mg,Yellow / White,Elliptical / Oval
+665,adams-600-18428,guaifenesin/pseudoephedrine,guaifenesin 600 mg / pseudoephedrine hydrochloride 60 mg,Peach & White,Elliptical / Oval
+666,adderall-xr-10-mg-1643,amphetamine/dextroamphetamine,10 mg,Blue,Capsule-shape
+667,adderall-xr-15-mg-12095,amphetamine/dextroamphetamine,15 mg,Blue & White,Capsule-shape
+668,adderall-xr-20-mg-12096,amphetamine/dextroamphetamine,20 mg,Orange,Capsule-shape
+669,adderall-xr-25-mg-1646,amphetamine/dextroamphetamine,25 mg,Orange & White,Capsule-shape
+670,adderall-xr-30-mg-12097,amphetamine/dextroamphetamine,30 mg,Orange,Capsule-shape
+671,adderall-xr-5-mg-12094,amphetamine/dextroamphetamine,5 mg,Blue,Capsule-shape
+672,adeks-4831,multivitamin with minerals,,White,Elliptical / Oval
+673,adg-10-400-9790,acetaminophen/oxycodone,400 mg / 10 mg,White,Elliptical / Oval
+674,adg-10-500-9799,acetaminophen/oxycodone,500 mg / 10 mg,White,Elliptical / Oval
+675,adg-2-5-400-9787,acetaminophen/oxycodone,400 mg / 2.5 mg,White,Elliptical / Oval
+676,adg-375-18237,chlorzoxazone,375 mg,White,Elliptical / Oval
+677,adg-5-400-9788,acetaminophen/oxycodone,400 mg / 5 mg,White,Elliptical / Oval
+678,adg-7-5-400-9789,acetaminophen/oxycodone,400 mg / 7.5 mg,White,Elliptical / Oval
+679,adg-750-18236,chlorzoxazone,750 mg,White,Elliptical / Oval
+680,adipex-p-9-9-759,phentermine,37.5 mg,Blue & White Specks,Elliptical / Oval
+681,adipex-p-37-5-7553,phentermine,37.5 mg,Blue & White,Capsule-shape
+682,adl2698-adl2698-12696,alvimopan,12 mg,Blue,Capsule-shape
+683,adoxa-150-mg-10426,doxycycline,150 mg,Orange,Capsule-shape
+684,adp-bes-10-20530,*,10 mg,White,Round
+685,adp-bes-2-5-20533,*,2.5 mg,White,Three-sided
+686,adp-bes-5-20529,*,5 mg,White,Elliptical / Oval
+687,advil-4110,ibuprofen,200 mg,Brown,Elliptical / Oval
+688,advil-21329,ibuprofen,200 mg (provided as ibuprofen sodium 256 mg),Beige,Round
+689,advil-21330,ibuprofen,200 mg (provided as ibuprofen sodium 256 mg),Beige,Elliptical / Oval
+690,advil-17905,ibuprofen,200 mg,Green,Capsule-shape
+691,advil-17909,ibuprofen,200 mg,Brown,Elliptical / Oval
+692,advil-17914,ibuprofen,200 mg,Brown,Round
+693,advil-17915,ibuprofen,200 mg,Brown & Yellow,Capsule-shape
+694,advil-100-17912,ibuprofen,100 mg,Purple,Round
+695,advil-100-17913,ibuprofen,100 mg,Brown,Round
+696,advil-a-cr-19934,chlorpheniramine/ibuprofen/phenylephrine,chlorpheniramine maleate 4 mg / ibuprofen 200 mg / phenylephrine hydrochloride 10 mg,Gray,Elliptical / Oval
+697,advil-a-s-17906,chlorpheniramine/ibuprofen/pseudoephedrine,chlorpheniramine maleate 2 mg / ibuprofen 200 mg / pseudoephedrine 30 mg,Orange,Elliptical / Oval
+698,advil-c-s-17907,ibuprofen/pseudoephedrine,ibuprofen 200 mg / pseudoephedrine 30 mg,Orange,Elliptical / Oval
+699,advil-cold-sinus-4111,ibuprofen/pseudoephedrine,200 mg / 30 mg,Brown,Elliptical / Oval
+700,advil-pm-17910,diphenhydramine/ibuprofen,diphenhydramine citrate 38 mg / ibuprofen 200 mg,Blue,Capsule-shape
+701,advil-pm-17911,diphenhydramine/ibuprofen,diphenhydramine hydrochloride 25 mg / ibuprofen 200 mg,Blue,Elliptical / Oval
+702,adx-1-a-10237,anastrozole,1 mg,White,Round
+703,aero-9410,chlorpheniramine/methscopolamine,8 mg / 2.5 mg,Blue,Elliptical / Oval
+704,afe-4416,*,acetaminophen 500 mg / caffeine 65 mg,Red,Elliptical / Oval
+705,ag-7-5-21193,l-methylfolate,7.5 mg,White,Capsule-shape
+706,ag-m-14937,*,5 mg,White,Round
+707,ahi-15951,*,1 mg,White,Round
+708,ahi-500-15335,*,500 mg,Purple,Capsule-shape
+709,ahi-m21-21012,*,125 mg,Peach,Round
+710,ahi-m22-21001,*,250 mg,Peach,Round
+711,ahi-m23-21000,*,500 mg,Peach,Round
+712,ahi-1-15683,*,1 mg,Pink,Elliptical / Oval
+713,ahi-2-15684,*,2 mg,Green,Elliptical / Oval
+714,ahi-4-15685,*,4 mg,Blue,Elliptical / Oval
+715,ahist-025-20877,chlorcyclizine,25 mg,Green,Elliptical / Oval
+716,ahr-62-51-2339,acetaminophen/codeine,300 mg / 30 mg,White,Elliptical / Oval
+717,ahr-1535-2331,polycarbophil,500 MG,Yellow,Round
+718,ahr-1843-8101,brompheniramine,12 mg,Beige,Round
+719,ahr-4650-2334,pancreatin,12500 U / 1000 U / 12500 U,Green,Round
+720,ahr-5049-2335,*,bile salts/pancreatin/pepsin,White,Round
+721,ahr-5050-2336,*,bile salts/pancreatin/pepsin,White,Round
+722,ahr-5449-2337,benzthiazide,50 MG,Yellow,Round
+723,ahr-6242-ahr-6242-2338,acetaminophen/codeine,325 mg / 15 mg,Yellow / Black,Capsule-shape
+724,ahr-6257-ahr-6257-2340,acetaminophen/codeine,325 mg / 30 mg,Green / Black,Capsule-shape
+725,ahr-6274-ahr-6274-2341,acetaminophen/codeine,325 mg / 60 mg,Green / White,Capsule-shape
+726,ahr-6447-2342,fenfluramine,20 mg,Orange,Round
+727,ahr-7824-2349,glycopyrrolate,1 MG,White,Round
+728,ahr-donnatal-extentab-7830,atropine/hyoscyamine/phenobarbital/scopolamine,0.0582 mg / 0.3111 mg / 48.6 mg / 0.0195 mg,Green,Round
+729,ak-20123,*,100 mg,Pink,Round
+730,ak-486-17580,ethinyl estradiol/norgestrel,inert,Pink,Round
+731,ak-78-17579,ethinyl estradiol/norgestrel,ethinyl estradiol 0.03 mg / norgestrel 0.3 mg,White,Round
+732,ak-120-15998,*,120 mg,Blue & White,Capsule-shape
+733,ak-160-15999,*,160 mg,Blue,Capsule-shape
+734,ak-60-15996,*,60 mg,White,Capsule-shape
+735,ak-80-15997,*,80 mg,Blue & White,Capsule-shape
+736,ak2-20124,*,200 mg,Beige,Elliptical / Oval
+737,al-0-25-g-7275,*,0.25 mg,Yellow,Elliptical / Oval
+738,al-0-5-g-7276,*,0.5 mg,Yellow,Elliptical / Oval
+739,al-1-0-g-7277,*,1 mg,White,Elliptical / Oval
+740,al-3-16332,*,300 mg,White,Round
+741,al1-25-15754,ramipril,1.25 mg,White,Elliptical / Oval
+742,al10-15757,ramipril,10 mg,Blue,Elliptical / Oval
+743,al2-5-15755,ramipril,2.5 mg,Orange,Elliptical / Oval
+744,al21-22320,acyclovir,50 mg,White,Round
+745,al5-15756,ramipril,5 mg,Red,Elliptical / Oval
+746,ala-hist-527-01-10954,brompheniramine/diphenhydramine,6 mg / 25 mg,Yellow,Elliptical / Oval
+747,ala-hist-d-513-01-10955,brompheniramine/diphenhydramine/phenylephrine,6 mg / 25 mg / 20 mg,Green,Elliptical / Oval
+748,alaven-0055-18098,oxymetholone,50 mg,White,Round
+749,alavert-d12-9433,loratadine/pseudoephedrine,5 mg / 120 mg,White,Round
+750,aldactazide-25-searle-1011-10161,hydrochlorothiazide/spironolactone,25 mg / 25 mg,Tan,Round
+751,aldactazide-50-searle-1021-10162,hydrochlorothiazide/spironolactone,50 mg / 50 mg,Tan,Elliptical / Oval
+752,aldactone-100-searle-1031-437,spironolactone,100 mg,Peach,Round
+753,aldactone-25-searle-1001-10163,spironolactone,25 mg,Yellow,Round
+754,aldactone-50-searle-1041-438,spironolactone,50 mg,Orange,Elliptical / Oval
+755,aldomet-msd-401-1971,methyldopa,250 MG,Yellow,Round
+756,aldoril-msd-456-1978,hydrochlorothiazide/methyldopa,25 mg / 250 mg,White,Round
+757,aldoril-msd-935-2019,hydrochlorothiazide/methyldopa,50 mg / 500 mg,White,Elliptical / Oval
+758,ale-150-mg-24029,alectinib,150 mg,White,Capsule-shape
+759,aleve-19763,naproxen,naproxen sodium 220 mg,Blue,Capsule-shape
+760,aleve-19764,naproxen,naproxen sodium 220 mg,Blue,Elliptical / Oval
+761,aleve-17355,naproxen,220 mg,White / Yellow,Elliptical / Oval
+762,aleve-17356,naproxen,220 mg,Blue,Round
+763,aleve-cs-21122,naproxen/pseudoephedrine,120-220 mg,White,Capsule-shape
+764,aleve-pm-22319,diphenhydramine/naproxen,diphenhydramine hydrochloride 25 mg / naproxen sodium 220 mg,Blue,Capsule-shape
+765,alg-216-21361,*,5 mg,White,Elliptical / Oval
+766,alg-217-21362,*,10 mg,Yellow,Elliptical / Oval
+767,alg-218-24326,*,50 mg,White,Capsule-shape
+768,alg-219-19211,*,325 mg / 37.5 mg,Yellow,Elliptical / Oval
+769,alg-263-18479,*,5 mg,White,Round
+770,alg-264-18480,*,15 mg,Green,Round
+771,alg-265-18481,*,30 mg,Blue,Round
+772,ali-flex-19976,acetaminophen/phenyltoloxamine,acetaminophen 500 mg / phenyltoloxamine citrate 50 mg,White,Elliptical / Oval
+773,align-24169,bifidobacterium infantis,,White,Capsule-shape
+774,alinia-500-8969,nitazoxanide,500 mg,Yellow,Round
+775,alkeran-a2a-23382,melphalan,2 mg,White,Round
+776,allegra-60-mg-1061,fexofenadine,60 mg,Pink & White,Capsule-shape
+777,allegra-d-8304,fexofenadine/pseudoephedrine,60 mg / 120 mg,Tan & White,Elliptical / Oval
+778,allergy-12-19913,*,12 mg,Orange,Round
+779,allfen-c-9757,carbetapentane/guaifenesin,5 mg / 1000 mg,White,*
+780,allfen-cd-12708,codeine/guaifenesin,10 mg / 400 mg,White,Elliptical / Oval
+781,allfen-cdx-12707,codeine/guaifenesin,20 mg / 400 mg,White,Elliptical / Oval
+782,allfen-cx-9759,carbetapentane/guaifenesin,60 mg / 1000 mg,White,*
+783,allfen-dm-12697,dextromethorphan/guaifenesin,20 mg / 400 mg,White,Elliptical / Oval
+784,alomet-msd-516-1982,methyldopa,500 MG,Yellow,Round
+785,alp-10-832-10328,*,10 mg,White,Round
+786,alp-0-25-apo-16617,*,0.25 mg,White,Elliptical / Oval
+787,alp-0-5-apo-16618,*,0.5 mg,Peach,Elliptical / Oval
+788,alp-1-apo-16619,*,1 mg,Blue,Elliptical / Oval
+789,alp-2-1-2-832-10326,*,2.5 mg,White,Round
+790,alp-5-832-10327,*,5 mg,White,Round
+791,alra215-7746,ibuprofen,200 mg,Orange,Round
+792,alraif600-7745,ibuprofen,600 mg,Orange,Elliptical / Oval
+793,alraif800-7744,ibuprofen,800 mg,Orange,Elliptical / Oval
+794,altace-10mg-mp-4691,ramipril,10 mg,Blue,Capsule-shape
+795,altace-2-5mg-mp-4938,ramipril,2.5 mg,Orange,Capsule-shape
+796,altace-5mg-mp-4680,ramipril,5 mg,Red,Capsule-shape
+797,altace-1-25-mg-mp-6561,ramipril,1.25 mg,Yellow,Capsule-shape
+798,altace-10-mg-hoechst-97,ramipril,10 mg,Blue,Capsule-shape
+799,altace-2-5-mg-hoechst-12578,ramipril,2.5 mg,Orange,Capsule-shape
+800,altace-5-mg-hoechst-96,ramipril,5 mg,Red,Capsule-shape
+801,alv-196-24310,*,325 mg / 5 mg,Blue,Round
+802,alv-317-23445,*,400 mg,White,Capsule-shape
+803,alv-331-21834,*,15 mg (base),Brown,Round
+804,alv-332-24155,*,25 mg,Orange,Round
+805,alva-19777,meclizine,meclizine hydrochloride 25 mg,Yellow,Round
+806,alva-17350,caffeine,caffeine (anhydrous) 200 mg,Green,Elliptical / Oval
+807,alva-17351,caffeine,caffeine (anhydrous) 100 mg,Green,Round
+808,alva-17352,pamabrom,pamabrom (solubilized) 50 mg,Blue,Elliptical / Oval
+809,alva-17363,acetaminophen/pamabrom,acetaminophen 500 mg / pamabrom 25 mg,Orange,Elliptical / Oval
+810,alva-17364,phosphorated carbohydrate solution,dextrose (glucose) 968 mg / levulose (fructose) 175 mg / sodium citrate dihydrate 230 mg,Pink,Round
+811,alva-17365,diphenhydramine,diphenhydramine hydrochloride 25 mg,White,Round
+812,alva-17367,caffeine,caffeine (anhydrous) 200 mg,Green,Elliptical / Oval
+813,alva-17142,*,caffeine 50 mg / magnesium salicylate 162.5 mg,Blue,Round
+814,alva-17143,pamabrom,pamabrom 50 mg,Clear,Capsule-shape
+815,alva-1-9761,*,acetaminophen 250 mg / caffeine 32.5 mg / magnesium salicylate tetrahydrate 310 mg,White,Elliptical / Oval
+816,alva-1-17353,pamabrom,pamabrom 50 mg,Blue,Elliptical / Oval
+817,alva-1-17366,caffeine,caffeine (anhydrous) 200 mg,Red,Elliptical / Oval
+818,alva-1-17368,phenazopyridine,phenazopyridine hydrochloride 99.5 mg,Red,Round
+819,alva-2-20231,acetaminophen/aspirin/caffeine,acetaminophen 250 mg /  aspirin 250 mg / caffeine 65 mg,White,Capsule-shape
+820,alva-2-20223,acetaminophen/aspirin/caffeine,acetaminophen 250 mg / aspirin 250 mg caffeine 65 mg,White,Capsule-shape
+821,alza-10-1442,oxybutynin,10 mg,White,Round
+822,alza-18-8536,methylphenidate,18 mg,Yellow,Elliptical / Oval
+823,alza-18-21102,*,18 mg,Yellow,Capsule-shape
+824,alza-27-8539,methylphenidate,27 mg,Gray,Elliptical / Oval
+825,alza-27-21103,*,27 mg,Gray,Capsule-shape
+826,alza-36-8537,methylphenidate,36 mg,White,Elliptical / Oval
+827,alza-36-21104,*,36 mg,White,Capsule-shape
+828,alza-5-1441,oxybutynin,5 mg,White,Round
+829,alza-54-8538,methylphenidate,54 mg,Red,Elliptical / Oval
+830,alza-54-21105,*,54 mg,Red,Capsule-shape
+831,am-17460,aspirin/caffeine,500 mg / 65 mg,White,Round
+832,am-5-14926,*,5 mg,White,Eight-sided
+833,am1-6878,*,1 gram,Purple,Elliptical / Oval
+834,ama-ryl-17220,glimepiride,1 mg,Pink,Figure eight-shape
+835,ama-ryl-2417,glimepiride,2 mg,Green,Figure eight-shape
+836,ama-ryl-2418,glimepiride,4 mg,Blue,Figure eight-shape
+837,ama-ryl-logo-1032,glimepiride,1 mg,Pink,Figure eight-shape
+838,ama-ryl-logo-1033,glimepiride,2 mg,Green,Figure eight-shape
+839,ama-ryl-logo-1034,glimepiride,4 mg,Blue,Figure eight-shape
+840,amb-10-5421-83,zolpidem,10 mg,White,Capsule-shape
+841,amb-5-5401-82,zolpidem,5 mg,Pink,Capsule-shape
+842,ambi-713-9758,carbetapentane/guaifenesin,5 mg / 1000 mg,White,*
+843,ambi-919-9756,*,1000 mg / 40 mg,White,Elliptical / Oval
+844,ambi-g-ambifed-g-9282,guaifenesin/pseudoephedrine,1000 mg / 60 mg,White,Elliptical / Oval
+845,ambifed-12721,guaifenesin/pseudoephedrine,400 mg / 30 mg,White,Elliptical / Oval
+846,ambifed-cd-12710,codeine/guaifenesin/pseudoephedrine,10 mg / 400 mg / 30 mg,White,Elliptical / Oval
+847,ambifed-cdx-12715,codeine/guaifenesin/pseudoephedrine,20 mg / 400 mg / 30 mg,White,Elliptical / Oval
+848,ambifed-dm-12720,dextromethorphan/guaifenesin/pseudoephedrine,20 mg / 400 mg / 30 mg,White,Elliptical / Oval
+849,ambifed-g-ambi-g-dm-14766,dextromethorphan/guaifenesin/pseudoephedrine,30 mg / 1000 mg / 60 mg,White,*
+850,ambifed-g-12665,guaifenesin/pseudoephedrine,400 mg / 20 mg,White,Elliptical / Oval
+851,ambifed-g-cd-12709,codeine/guaifenesin/pseudoephedrine,10 mg / 400 mg / 20 mg,White,Elliptical / Oval
+852,ambifed-g-cdx-12714,codeine/guaifenesin/pseudoephedrine,20 mg / 400 mg / 20 mg,White,Elliptical / Oval
+853,ambifed-g-dm-12666,dextromethorphan/guaifenesin/pseudoephedrine,20 mg / 400 mg / 20 mg,White,Elliptical / Oval
+854,amc-500-125-8960,*,500 mg / 125 mg,White,Elliptical / Oval
+855,amen-c-3068,medroxyprogesterone,10 MG,White,Round
+856,amg-30-21491,cinacalcet,30 mg,Green,Elliptical / Oval
+857,amg-60-21492,cinacalcet,60 mg,Green,Elliptical / Oval
+858,amg-90-21493,cinacalcet,90 mg,Green,Elliptical / Oval
+859,amgen-30-9232,cinacalcet,30 mg,Green,Elliptical / Oval
+860,amgen-60-9233,cinacalcet,60 mg,Green,Elliptical / Oval
+861,amgen-90-9234,cinacalcet,90 mg,Green,Elliptical / Oval
+862,amide-0046-14019,chlorpheniramine/phenylephrine/pyrilamine,8 mg / 25 mg / 25 mg,*,*
+863,amide-014-6192,*,4 mg,Yellow,Elliptical / Oval
+864,amide-015-11385,*,6 mg,White,Elliptical / Oval
+865,amide-035-4017,ephedrine/phenobarbital/theophylline,22.5 mg / 120 mg,White,Round
+866,amide-045-3984,*,prenatal multivitamins,White,Elliptical / Oval
+867,amide-076-7902,multivitamin,Vitamin B Complex with C and Folic Acid,Green,Elliptical / Oval
+868,amide-077-1221,multivitamin with minerals,Multiple Vitamins with Minerals,Yellow,Elliptical / Oval
+869,amide-078-amide-078-17254,multivitamin with minerals,,Black / Orange,Capsule-shape
+870,amide025-7896,*,500 mg,Green,*
+871,amide032-7048,*,5.4 mg,White,Round
+872,amide053-7894,*,250 mg,Orange,Round
+873,amide084-7907,choline salicylate/magnesium salicylate,500 mg,Orange,*
+874,amneal-506-16746,*,75 mg,Blue / Clear,Capsule-shape
+875,amneal-542-20652,*,10 mEq (750 mg),Clear,Capsule-shape
+876,amneal-590-22438,*,667 mg,Blue & White,Capsule-shape
+877,amneal-669-14007,*,200 mg,Purple / Orange,Capsule-shape
+878,amneal-670-14008,*,400 mg,Purple / Orange,Capsule-shape
+879,amneal-801-23001,*,5 mg,Green & White,Capsule-shape
+880,amneal-802-23002,*,20 mg,Yellow & White,Capsule-shape
+881,amneal-803-23003,*,100 mg,Pink & White,Capsule-shape
+882,amneal-804-23004,*,140 mg,Blue & White,Capsule-shape
+883,amneal-805-23005,*,180 mg,Red & White,Capsule-shape
+884,amneal-806-23006,*,250 mg,White,Capsule-shape
+885,amox-500-gg-849-6010,*,500 mg,Yellow,Capsule-shape
+886,amoxil-125-665,amoxicillin,125 mg,Pink,Elliptical / Oval
+887,amoxil-250-666,amoxicillin,250 mg,Pink,Elliptical / Oval
+888,amoxil-200-797,amoxicillin,200 mg,Pink,Round
+889,amoxil-250-amoxil-250-23302,*,250 mg,Blue / Pink,Capsule-shape
+890,amoxil-250-amoxil-250-667,amoxicillin,250 mg,Blue / Pink,Capsule-shape
+891,amoxil-400-798,amoxicillin,400 mg,Pink,Round
+892,amoxil-500-23303,*,500 mg,Pink,Elliptical / Oval
+893,amoxil-500-5285,amoxicillin,500 mg,Pink,Elliptical / Oval
+894,amoxil-500-amoxil-500-796,amoxicillin,500 mg,Blue & Pink,Capsule-shape
+895,amoxil-875-7564,amoxicillin,875 mg,Pink,Elliptical / Oval
+896,amp-250-7782,*,250 mg,Blue & White,Capsule-shape
+897,amp-500-7783,*,500 mg,Blue & White,Capsule-shape
+898,ampol-496-23616,*,500 mg,White,Elliptical / Oval
+899,amt-832-7548,*,100 mg,Orange,Round
+900,an-3-7-24137,*,40 mg,Yellow,Elliptical / Oval
+901,an-446-24255,*,0.5 mg,White,Elliptical / Oval
+902,an-449-24256,*,1 mg,Pink,Elliptical / Oval
+903,an-543-16165,*,250 mg,White,Round
+904,an-71-16163,*,25 mg,White,Round
+905,an-711-15807,*,1 mg,White,Elliptical / Oval
+906,an-713-15808,*,2 mg,White,Elliptical / Oval
+907,an-745-17226,*,12.5 mg,White,Round
+908,an-761-1-20707,*,1 mg,Pink,Elliptical / Oval
+909,an-762-2-20708,*,2 mg,Purple,Elliptical / Oval
+910,an-763-2-1-2-20709,*,2.5 mg,Green,Elliptical / Oval
+911,an-764-3-20710,*,3 mg,Tan,Elliptical / Oval
+912,an-765-4-20711,*,4 mg,Blue,Elliptical / Oval
+913,an-766-5-20712,*,5 mg,Peach,Elliptical / Oval
+914,an-767-6-20713,*,6 mg,Green,Elliptical / Oval
+915,an-768-7-1-2-20714,*,7.5 mg,Yellow,Elliptical / Oval
+916,an-769-10-20715,*,10 mg,White,Elliptical / Oval
+917,an-77-16164,*,50 mg,White,Round
+918,an-838-24138,*,80 mg,Pink,Elliptical / Oval
+919,an-839-24139,*,160 mg,Yellow,Elliptical / Oval
+920,an-840-24140,*,320 mg,Brown,Elliptical / Oval
+921,an-01-18957,*,50 mg,Pink,Round
+922,an-1-15953,*,1 mg,White,Round
+923,an-1-14574,*,100 mg,Brown,Round
+924,an-2-14575,*,200 mg,Brown,Round
+925,an-211-7965,*,325 mg,White,Round
+926,an-24-9868,*,0.6 mg,White,Round
+927,an-321-23478,*,500 mg,Peach,Round
+928,an-322-24082,*,750 mg,Orange,Capsule-shape
+929,an-323-23479,*,1000 mg,Peach,Capsule-shape
+930,an-351-20732,*,20 mg (base),White,Round
+931,an-361-15194,*,1 mg,Yellow,Round
+932,an-40-17771,*,40 mg,White,Round
+933,an-41-14291,*,10 mg,Yellow,Round
+934,an-415-20651,*,8 mg (base) / 2 mg (base),Orange,Round
+935,an-44-13308,*,50 mg,White,Round
+936,an-441-18681,*,12.5 mg,Blue,Elliptical / Oval
+937,an-442-18682,*,25 mg,Yellow,Elliptical / Oval
+938,an-444-19448,*,50 mg,White,Elliptical / Oval
+939,an-475-20015,*,5 mg,White,Elliptical / Oval
+940,an-511-16306,*,25 mg,White,Round
+941,an-512-14578,*,500 mg,Yellow,Round
+942,an-513-14579,*,750 mg,Yellow,Capsule-shape
+943,an-514-16307,*,50 mg,Yellow,Round
+944,an-515-16308,*,100 mg,Beige,Round
+945,an-516-6540,*,1 mg,Yellow,Round
+946,an-521-17227,*,25 mg,White,Round
+947,an-522-17228,*,50 mg,Pink,Round
+948,an-54-13290,*,150 mg,Red,Round
+949,an-545-13309,*,250 mg,White,Round
+950,an-55-13291,*,300 mg,Pink,Round
+951,an-553-21202,*,800 mg,Pink,Capsule-shape
+952,an-571-13284,*,5 mg,White,Round
+953,an-572-13285,*,10 mg,White,Round
+954,an-573-13286,*,25 mg,Yellow,Round
+955,an-574-13287,*,50 mg,Yellow,Round
+956,an-602-18958,*,100 mg,Pink,Round
+957,an-603-18959,*,150 mg,Pink,Round
+958,an-604-18960,*,200 mg,Pink,Round
+959,an-617-15809,*,325 mg / 37.5 mg,Beige,Capsule-shape
+960,an-627-14580,*,50 mg,White,Round
+961,an-641-14646,*,50 mg,White,Round
+962,an-642-14647,*,100 mg,White,Round
+963,an-643-14563,*,150 mg,White,Elliptical / Oval
+964,an-734-18239,*,400 mg,Yellow,Elliptical / Oval
+965,an-735-18238,*,600 mg,Orange,Elliptical / Oval
+966,an-755-23327,*,250 mg,White,Round
+967,an-757-23328,*,500 mg,White,Capsule-shape
+968,an-777-24054,*,600 mg,White,Elliptical / Oval
+969,an3-13292,*,100 mg,Red,Elliptical / Oval
+970,an34-23923,*,1 gram,Yellow,Capsule-shape
+971,an35-16756,*,35 mg,White,Elliptical / Oval
+972,an40-23333,*,5 mg,Yellow,Capsule-shape
+973,an70-14225,*,70 mg,White,Elliptical / Oval
+974,ana-1-19034,*,1 mg,White,Round
+975,anafranil-25-mg-14861,clomipramine,25 mg,White & Yellow,Capsule-shape
+976,anafranil-50-mg-14862,clomipramine,50 mg,Blue & White,Capsule-shape
+977,anafranil-50-mg-m-15969,clomipramine,50 mg,Blue & White,Capsule-shape
+978,anafranil-75-mg-14863,clomipramine,75 mg,White & Yellow,Capsule-shape
+979,anafranil-75-mg-m-15970,clomipramine,75 mg,Yellow & White,Capsule-shape
+980,anaprox-roche-6686,naproxen,naproxen sodium 275 mg,Blue,Elliptical / Oval
+981,anaprox-ds-syntex-5216,naproxen,550 mg,Blue,Elliptical / Oval
+982,anaprox-ds-roche-7808,naproxen,naproxen sodium 550 mg,Blue,Elliptical / Oval
+983,anchen-107-17921,*,500 mg,White,Elliptical / Oval
+984,anchen-108-17922,*,1000 mg,White,Elliptical / Oval
+985,ancobon-250-icn-ancobon-250-icn-17767,flucytosine,250 mg,Gray / Green,Capsule-shape
+986,ancobon-500-icn-ancobon-500-icn-17768,flucytosine,500 mg,Gray & White,Capsule-shape
+987,andrx-8798,guaifenesin/phenylephrine,400 mg / 30 mg,*,*
+988,andrx-075-19501,*,acetaminophen 750 mg / butalbital 50 mg / caffeine 40 mg,Pink,Elliptical / Oval
+989,andrx-132-288,guaifenesin/pseudoephedrine,400 mg / 120 mg,Blue & White,*
+990,andrx-333-1685,guaifenesin/phenylephrine,400 mg / 30 mg,Blue & Yellow,*
+991,andrx-559-14351,*,8 mEq (600 mg),White,Capsule-shape
+992,andrx-560-14352,*,10 mEq (750 mg),Blue,Capsule-shape
+993,andrx-520-200mg-8278,*,200 mg,Blue,Capsule-shape
+994,andrx-548-120-mg-14804,diltiazem,120 mg,White,Capsule-shape
+995,andrx-549-180-mg-1291,diltiazem,180 mg,Gray & White,Capsule-shape
+996,andrx-550-240-mg-4946,diltiazem,240 mg,Green,Capsule-shape
+997,andrx-605-18803,*,10 mg / 240 mg,White,Elliptical / Oval
+998,andrx-640-40-mg-15866,*,40 mg,Green,Capsule-shape
+999,andrx-696-120mg-14726,diltiazem,120 mg,Pink,Capsule-shape
+1000,andrx-697-180mg-14033,diltiazem,180 mg,Blue / Beige,Capsule-shape
+1001,andrx-698-240mg-14727,diltiazem,240 mg,Pink / Blue,Capsule-shape
+1002,andrx-699-300mg-14034,diltiazem,300 mg,Pink / Beige,Capsule-shape
+1003,andrx-700-360mg-14728,diltiazem,360 mg,Blue,Capsule-shape
+1004,andrx-710-8705,*,10 mEq (750 mg),White,Elliptical / Oval
+1005,andrx-720-8706,*,20 mEq (1500 mg),White,Capsule-shape
+1006,andrx-825-23667,*,375 mg,White,Round
+1007,andrx-826-12412,*,500 mg,White,Capsule-shape
+1008,anexsia-5361-5076,acetaminophen/hydrocodone,5 mg / 500mg,White,Elliptical / Oval
+1009,anexsia-mpc-207-147,acetaminophen/hydrocodone,500 mg / 5 mg,White,Round
+1010,anfranil-25-mg-m-15968,clomipramine,25 mg,Orange & White,Capsule-shape
+1011,ani-240-22648,*,25 mg,White,Four-sided
+1012,ani-241-22649,*,50 mg,White,Round
+1013,ani-250-22890,*,200 mg,Red,Capsule-shape
+1014,ani-251-22888,*,300mg,Red,Elliptical / Oval
+1015,ani-210-23771,*,30 mg,White,Capsule-shape
+1016,ani-230-23276,*,150 mg,White,Round
+1017,ani-231-23277,*,225 mg,White,Round
+1018,ani-232-23278,*,300 mg,White,Round
+1019,animi-3d-18422,omega-3 polyunsaturated fatty acids,,Orange,Rectangle
+1020,anolor-300-51674-0009-7590,acetaminophen/butalbital/caffeine,325 mg-50 mg-40 mg,White / Green,Capsule-shape
+1021,ansaid-50mg-2156,flurbiprofen,50 MG,White,Elliptical / Oval
+1022,ansaid100mg-6453,flurbiprofen,100 mg,Blue,Elliptical / Oval
+1023,antabuse-250-a-22,disulfiram,250 mg,White,Eight-sided
+1024,antabuse-500-2526,disulfiram,500 MG,White,Eight-sided
+1025,anturane-200-ciba-168-3013,sulfinpyrazone,200 MG,Green,Capsule-shape
+1026,anzemet-100-8265,dolasetron,100 mg,Pink,Elliptical / Oval
+1027,anzemet-50-3131,dolasetron,50 mg,White,Round
+1028,ao-58-4555,*,400 MG-75 MG,Blue / White,Elliptical / Oval
+1029,ap-19780,*,0.125 mg,Green,Round
+1030,ap-009-20463,*,81 mg,Orange,Round
+1031,ap-011-14422,*,325 mg,Orange,Round
+1032,ap-013-15132,*,500 mg,White,Round
+1033,ap-014-10230,*,500 mg,White,Elliptical / Oval
+1034,ap-019-11503,*,80 mg,White,Round
+1035,ap-0920-23265,isosorbide dinitrate,40 mg,White / Pink,Capsule-shape
+1036,ap-112-23317,hyoscyamine,0.125 mg,Blue,Round
+1037,ap-112-17570,*,0.125 mg,Blue,Round
+1038,ap-113-23318,hyoscyamine,0.125 mg,Blue,Round
+1039,ap-113-17571,*,0.125 mg,Blue,Round
+1040,ap-115-23310,hyoscyamine,0.375 mg,White,Capsule-shape
+1041,ap-115-17572,*,0.375 mg,White,Capsule-shape
+1042,ap-121-15036,*,81 mg,Yellow,Round
+1043,ap-133-16576,*,500 mg / 25 mg,Blue,Capsule-shape
+1044,ap-20-8117,diphenhydramine,25 mg,Pink & White,Capsule-shape
+1045,ap-20-7147,*,25 mg,Pink & White,Capsule-shape
+1046,ap-205-11729,methscopolamine/phenylephrine,1.25 mg / 30 mg,White,Elliptical / Oval
+1047,ap-329-20004,thyroid desiccated,30 mg,Tan,Round
+1048,ap-330-20005,thyroid desiccated,60 mg,Tan,Round
+1049,ap-331-20006,thyroid desiccated,90 mg,Tan,Round
+1050,ap-661-17075,acetaminophen/butalbital/caffeine,300 mg / 50 mg / 40 mg,Green & Yellow,Capsule-shape
+1051,ap-7045-167,*,12.5 mg,White,Round
+1052,ap-nu-17250,hyoscyamine,0.125 mg,White,Round
+1053,ap-203-9638,guaifenesin/hydrocodone,1000 mg / 10 mg,White,Elliptical / Oval
+1054,ap-202-9639,chlorpheniramine/dextromethorphan/methscopolamine,8 mg / 30 mg / 2.5 mg,*,*
+1055,ap-010-22082,*,325 mg,White,Round
+1056,ap-012-10231,*,325 mg,White,Round
+1057,ap-016-12057,*,4 mg,Yellow,Round
+1058,ap-023-11457,*,50 mg,Blue,Round
+1059,ap-025-1134,*,0.5 mg,White,Round
+1060,ap-025-10238,*,650 mg,White,Round
+1061,ap-026-1135,*,1 mg,Purple,Round
+1062,ap-027-1136,*,2 mg,Blue,Round
+1063,ap-040-7980,*,125 mg,White,Round
+1064,ap-041-21270,*,500 mg,White,Round
+1065,ap-043-10250,calcium carbonate,500 mg,*,Round
+1066,ap-045-11493,bismuth subsalicylate,bismuth subsalicylate 262 mg,Pink,Round
+1067,ap-049-16577,aluminum hydroxide/magnesium hydroxide/simethicone,aluminum hydroxide 200mg / magnesium hydroxide 200 mg / simethicone 20mg,White,Round
+1068,ap-051-7962,*,80 mg,Pink,Round
+1069,ap-0812-4886,*,100 mg,Peach,Round
+1070,ap-0814-ap-0814-873,*,100 mg,Blue,Capsule-shape
+1071,ap-0837-ap-0837-4887,*,50 mg,Blue / White,Capsule-shape
+1072,ap-107-24136,mebendazole,100 mg,Peach,Round
+1073,ap-115-10169,*,25 mg,Pink,Round
+1074,ap-117-10168,*,12.5 mg,White,Elliptical / Oval
+1075,ap-119-16580,*,10 grain (650 mg),White,Round
+1076,ap-120-16579,*,5 grain (325 mg),White,Round
+1077,ap-121-20462,*,81 mg,Yellow,Round
+1078,ap-126-20488,*,325 mg / 12.5 mg,Orange,Round
+1079,ap-135-10241,diphenhydramine,25 mg,Pink,Elliptical / Oval
+1080,ap-151-23879,guaifenesin,guaifenesin 200 mg,Red,Round
+1081,ap-151-21237,*,200 mg,Pink,Round
+1082,ap-18-9609,multivitamin with minerals,Therapeutic Multiple Vitamins with Minerals,White,Round
+1083,ap-20-20626,*,25 mg,Pink,Capsule-shape
+1084,ap-21-20627,*,50 mg,Pink,Capsule-shape
+1085,ap-2461-4889,*,20 mg,White,Round
+1086,ap-2462-654,*,40 mg,White,Round
+1087,ap-2463-4890,*,80 mg,White,Round
+1088,ap-2464-4891,*,120 mg,White,Elliptical / Oval
+1089,ap-2465-6339,*,160 mg,White,Elliptical / Oval
+1090,ap-7046-4893,*,25 MG,White,Round
+1091,ap-7047-168,*,50 mg,White,Round
+1092,ap-84-18503,"multivitamin, prenatal",prenatal/postnatal multivitamins and minerals,Purple,Elliptical / Oval
+1093,ap-85-17092,multivitamin with iron,polysaccharide iron complex 22 mg / heme iron polypeptide 6 mg / folic acid 1 mg / vitamin B12 0.025,Maroon,Elliptical / Oval
+1094,ap-86-18504,"multivitamin, prenatal",prenatal/postnatal multivitamins and minerals,Purple,Capsule-shape
+1095,ap-88-18165,"multivitamin, prenatal",prenatal/postnatal multivitamins and minerals,Purple,Elliptical / Oval
+1096,ap-90-9610,multivitamin with minerals,Therapeutic Multiple Vitamins with Minerals,White,Elliptical / Oval
+1097,ap-ascriptin-2673,aluminum hydroxide/aspirin/calcium carbonate/magnesium hydroxide,325 mg,White,Elliptical / Oval
+1098,ap019-8146,simethicone,80 mg,White,Round
+1099,ap040-8147,simethicone,125 mg,White,Round
+1100,ap1-4182,*,100 mg,Blue,Round
+1101,ap205-18928,*,70 mg,White,Elliptical / Oval
+1102,ap207-18927,*,35 mg,White,Elliptical / Oval
+1103,ap211-22225,*,750 mg,Yellow,Capsule-shape
+1104,ap212-22224,*,500 mg,Orange,Round
+1105,ap4-20332,ponatinib,45 mg,White,Round
+1106,ap7491-250-mg-287,*,250 mg,Turquoise & White,Capsule-shape
+1107,ap7494-500-mg-6834,*,500 mg,Blue & Gray,Capsule-shape
+1108,aphro-dyne-7781,yohimbine,5.4 mg,Blue,Capsule-shape
+1109,apo-007-11581,*,diltiazem 120 mg,White,Capsule-shape
+1110,apo-008-11582,*,Diltiazem 180 mg,Blue & White,Capsule-shape
+1111,apo-009-11583,*,Diltiazem 240 mg,Blue & White,Capsule-shape
+1112,apo-010-11584,*,Diltiazem 300 mg,Gray & White,Capsule-shape
+1113,apo-010-11636,*,10 mg,Pink / Red,Capsule-shape
+1114,apo-016-11587,*,diltiazem extended-release 240 mg,Brown & White,Capsule-shape
+1115,apo-020-11637,*,20 mg,Pink / Red,Capsule-shape
+1116,apo-040-13872,*,40 mg,Pink / Brown,Capsule-shape
+1117,apo-042-12072,*,200 mg,Turquoise & White,Capsule-shape
+1118,apo-055-7109,*,5 mg,Blue & White,Capsule-shape
+1119,apo-083-1675,*,20 mg,White,Elliptical / Oval
+1120,apo-084-1676,*,30 mg,White,Elliptical / Oval
+1121,apo-093-8610,*,1 mg,White,Round
+1122,apo-094-8611,*,2 mg,White,Capsule-shape
+1123,apo-095-8612,*,4 mg,White,Capsule-shape
+1124,apo-096-8603,*,8 mg,White,Capsule-shape
+1125,apo-097-1677,*,10 mg,White,Elliptical / Oval
+1126,apo-1-25-15084,*,1.25 mg,Yellow & White,Capsule-shape
+1127,apo-10-11674,*,10 mg,White,Elliptical / Oval
+1128,apo-10-15087,*,10 mg,Blue & White,Capsule-shape
+1129,apo-10-100-13860,*,10 mg / 100 mg,Blue,Round
+1130,apo-10-12-5-22537,*,10 mg / 12.5 mg,Pink,Round
+1131,apo-10-12-5-21666,*,12.5 mg / 10 mg,Peach,Elliptical / Oval
+1132,apo-10-12-5-8919,*,12.5 mg / 10 mg,Pink,Elliptical / Oval
+1133,apo-10-25-12650,*,10 mg / 25 mg,Red,Round
+1134,apo-10-mg-11561,*,10 mg,White,Elliptical / Oval
+1135,apo-100-11677,*,100 mg,Red & White,Capsule-shape
+1136,apo-100-12-5-16388,*,12.5 mg / 100 mg,Yellow,Elliptical / Oval
+1137,apo-100-25-16389,*,25 mg / 100 mg,Yellow,Elliptical / Oval
+1138,apo-101-9117,*,40 mg,White,Elliptical / Oval
+1139,apo-115-8413,*,1 mg,Beige,Capsule-shape
+1140,apo-116-8414,*,2 mg,Yellow,Capsule-shape
+1141,apo-117-8415,*,5 mg,Red,Capsule-shape
+1142,apo-118-8416,*,10 mg,Blue,Capsule-shape
+1143,apo-12-5-14633,*,12.5 mg,White,Elliptical / Oval
+1144,apo-120-13863,*,diltazem hydrochloride ER 120 mg,Blue,Capsule-shape
+1145,apo-150-11634,*,150 mg,White & Yellow,Capsule-shape
+1146,apo-150-12-5-20109,*,12.5 mg / 150 mg,Peach,Elliptical / Oval
+1147,apo-16-12-5-20309,*,16 mg / 12.5 mg,Peach,Capsule-shape
+1148,apo-160-12-5-21418,*,12.5 mg / 160 mg,Red,Capsule-shape
+1149,apo-160-25-21419,*,25 mg / 160 mg,Brown,Capsule-shape
+1150,apo-2-5-15076,*,2.5 mg,White,Round
+1151,apo-2-5-15085,*,2.5 mg,Orange & White,Capsule-shape
+1152,apo-20-12-5-22538,*,20 mg / 12.5 mg,Purple,Round
+1153,apo-20-12-5-21667,*,12.5 mg / 20 mg,Peach,Round
+1154,apo-20-12-5-8920,*,12.5 mg / 20 mg,White,Elliptical / Oval
+1155,apo-20-25-22539,*,20 mg / 25 mg,Brown,Round
+1156,apo-20-25-21668,*,25 mg / 20 mg,Peach,Round
+1157,apo-20-25-8921,*,25 mg / 20 mg,Pink,Elliptical / Oval
+1158,apo-240-13865,*,diltazem hydrochloride ER 240 mg,Blue / Green,Capsule-shape
+1159,apo-25-11675,*,25 mg,White,Capsule-shape
+1160,apo-25-100-13861,*,25 mg / 100 mg,Yellow,Round
+1161,apo-25-250-13862,*,25 mg / 250 mg,Blue,Round
+1162,apo-250-125-14354,*,250 mg / 125 mg,White,Elliptical / Oval
+1163,apo-300-11616,*,300 mg,Beige,Capsule-shape
+1164,apo-300-11635,*,300 mg,Brown & White,Capsule-shape
+1165,apo-300-12-5-20110,*,12.5 mg / 300 mg,Peach,Elliptical / Oval
+1166,apo-300-25-20111,*,25 mg / 300 mg,Pink,Elliptical / Oval
+1167,apo-32-12-5-20310,*,32 mg / 12.5 mg,Yellow,Capsule-shape
+1168,apo-32-25-20967,*,32 mg / 25 mg,Pink,Capsule-shape
+1169,apo-320-12-5-21420,*,12.5 mg / 320 mg,Pink,Elliptical / Oval
+1170,apo-320-25-21421,*,25 mg / 320 mg,Yellow,Elliptical / Oval
+1171,apo-37-5-25-15066,*,25 mg / 37.5 mg,Green,Elliptical / Oval
+1172,apo-37-5-325-22363,*,325 mg / 37.5 mg,Yellow,Capsule-shape
+1173,apo-5-15086,*,5 mg,Red & White,Capsule-shape
+1174,apo-5-12-5-12649,*,5 mg / 12.5 mg,Red,Round
+1175,apo-5-6-25-22536,*,5 mg / 6.25 mg,White,Round
+1176,apo-5-mg-11560,*,5 mg,White,Elliptical / Oval
+1177,apo-50-11676,*,50 mg,Gray & White,Capsule-shape
+1178,apo-50-12-5-16387,*,12.5 mg / 50 mg,Yellow,Elliptical / Oval
+1179,apo-500-125-14355,*,500 mg / 125 mg,White,Elliptical / Oval
+1180,apo-6-25-14632,*,6.25 mg,White,Elliptical / Oval
+1181,apo-75-50-15067,*,50 mg / 75 mg,Yellow,Elliptical / Oval
+1182,apo-80-12-5-21417,*,12.5 mg / 80 mg,Orange,Capsule-shape
+1183,apo-a-c-14356,*,875 mg / 125 mg,White,Capsule-shape
+1184,apo-a-5-24059,*,0.5 mg,White,Round
+1185,apo-a1-24060,*,1 mg,Yellow,Round
+1186,apo-a10-14942,*,10 mg,White,Round
+1187,apo-a10-19375,*,10 mg,White,Elliptical / Oval
+1188,apo-a2-24061,*,2 mg,Blue,Round
+1189,apo-a3-24062,*,3 mg,Green,Round
+1190,apo-ab-300-20356,*,300 mg (base),Yellow,Capsule-shape
+1191,apo-af120-9713,sotalol,120 mg,White,Capsule-shape
+1192,apo-af160-9714,sotalol,160 mg,White,Capsule-shape
+1193,apo-af80-9712,sotalol,80 mg,White,Capsule-shape
+1194,apo-ale-35-14943,*,35 mg,White,Elliptical / Oval
+1195,apo-ale-70-14944,*,70 mg,White,Elliptical / Oval
+1196,apo-alf-10-17817,*,10 mg,Yellow,Round
+1197,apo-all-100-11539,*,100 mg,White,Round
+1198,apo-all-300-11354,*,300 mg,Orange,Round
+1199,apo-aml-10-12110,*,10 mg,White,Round
+1200,apo-aml-2-5-12108,*,2.5 mg,White,Round
+1201,apo-aml-5-12109,*,5 mg,White,Round
+1202,apo-an-1-19374,*,1 mg,White,Round
+1203,apo-ari-15-23475,*,15 mg,Yellow,Round
+1204,apo-ari-20-23476,*,20 mg,White,Round
+1205,apo-ari-30-23477,*,30 mg,Pink,Round
+1206,apo-atv20-19376,*,20 mg,White,Elliptical / Oval
+1207,apo-atv40-19377,*,40 mg,White,Elliptical / Oval
+1208,apo-atv80-19378,*,80 mg,White,Elliptical / Oval
+1209,apo-az250-17814,*,250 mg,White,Elliptical / Oval
+1210,apo-az500-17815,*,500 mg,White,Elliptical / Oval
+1211,apo-az600-18288,*,600 mg,White,Elliptical / Oval
+1212,apo-b750-14654,*,750 mg,White,Capsule-shape
+1213,apo-be-10-12102,*,10 mg,Yellow,Round
+1214,apo-be-20-11392,*,20 mg,Orange,Round
+1215,apo-be-40-12103,*,40 mg,Pink,Round
+1216,apo-be-5-12101,*,5 mg,White,Round
+1217,apo-bu-75-12092,*,75 mg,Orange,Round
+1218,apo-bup-100-12091,*,100 mg,Purple,Round
+1219,apo-c100-19101,*,100 mg,White / Green,Capsule-shape
+1220,apo-c100-23244,*,100 mg,White,Capsule-shape
+1221,apo-c200-19102,*,200 mg,White / Green,Capsule-shape
+1222,apo-c200-23245,*,200 mg,White,Capsule-shape
+1223,apo-c25-14634,*,25 mg,White,Elliptical / Oval
+1224,apo-c3-14631,*,3.125 mg,White,Elliptical / Oval
+1225,apo-c30-20193,*,30 mg,White,Capsule-shape
+1226,apo-c300-19103,*,300 mg,White / Green,Capsule-shape
+1227,apo-c50-23243,*,50 mg,White,Capsule-shape
+1228,apo-c500-9083,*,500 mg,White,Elliptical / Oval
+1229,apo-ca-0-5-21416,*,0.5 mg,White,Capsule-shape
+1230,apo-ca-16-21793,*,16 mg,Pink,Round
+1231,apo-ca-32-21794,*,32 mg,Pink,Round
+1232,apo-ca-4-21791,*,4 mg,White,Round
+1233,apo-ca-8-21792,*,8 mg,Pink,Round
+1234,apo-ci-10-9400,*,10 mg,Beige,Elliptical / Oval
+1235,apo-ci-20-9401,*,20 mg,Pink,Elliptical / Oval
+1236,apo-ci-40-9402,*,40 mg,White,Elliptical / Oval
+1237,apo-cil-100-11397,*,100 mg,White,Round
+1238,apo-cil-50-12672,*,50 mg,White,Round
+1239,apo-cip-250-11858,*,250 mg,White,Round
+1240,apo-cip-500-9077,*,500 mg,White,Capsule-shape
+1241,apo-cip-750-9078,*,750 mg,White,Capsule-shape
+1242,apo-cl-75-6347,*,75 mg (base),Red,Round
+1243,apo-cl-75-20192,*,75 mg (base),Pink,Round
+1244,apo-cl300-22672,*,300 mg (base),Pink,Capsule-shape
+1245,apo-cpz-250-14690,*,250 mg,Orange,Elliptical / Oval
+1246,apo-cpz-500-14691,*,500 mg,White,Elliptical / Oval
+1247,apo-d20-22241,*,20 mg,Green,Capsule-shape
+1248,apo-d30-22242,*,30 mg,Blue & White,Capsule-shape
+1249,apo-d60-22243,*,60 mg,Green / Blue,Capsule-shape
+1250,apo-des-0-1-14854,*,0.1 mg,White,Round
+1251,apo-des-0-2-14855,*,0.2 mg,White,Round
+1252,apo-do-10-22785,*,10 mg,Yellow,Round
+1253,apo-do-5-22784,*,5 mg,White,Round
+1254,apo-dp-50-14740,*,50 mg,Brown,Round
+1255,apo-ep-25-14215,*,25 mg,Yellow,Round
+1256,apo-ep-50-14216,*,50 mg,Yellow,Round
+1257,apo-esc-10-19955,*,10 mg (base),White,Round
+1258,apo-esc-20-19956,*,20 mg (base),White,Round
+1259,apo-esc-5-19954,*,5 mg (base),White,Round
+1260,apo-f130-21302,*,130 mg,Green & White,Capsule-shape
+1261,apo-f25-8629,*,25 mg,White,Round
+1262,apo-f43-21301,*,43 mg,Green & White,Capsule-shape
+1263,apo-f50-12634,*,50 mg,Yellow,Round
+1264,apo-fam-125-18466,*,125 mg,White,Round
+1265,apo-fam-250-18467,*,250 mg,White,Round
+1266,apo-fam500-18468,*,500 mg,White,Elliptical / Oval
+1267,apo-fcn100-9318,*,100 mg,Pink,Round
+1268,apo-fcn15o-9319,*,150 mg,Pink,Round
+1269,apo-fcn200-9320,*,200 mg,Pink,Round
+1270,apo-flu-100-8631,*,100 mg,Red,Elliptical / Oval
+1271,apo-fos-40-12664,*,40 mg,White,Round
+1272,apo-fos-10-9160,*,10 mg,White,Figure eight-shape
+1273,apo-fos-20-9161,*,20 mg,White,Elliptical / Oval
+1274,apo-g12-19356,*,12 mg,Orange,Round
+1275,apo-g4-19354,*,4 mg,White,Round
+1276,apo-g8-19355,*,8 mg,Pink,Round
+1277,apo-gab-600-11606,*,600 mg,White,Elliptical / Oval
+1278,apo-gab-800-11607,*,800 mg,White,Elliptical / Oval
+1279,apo-glp-10-12581,*,10 mg,White,Round
+1280,apo-glp-5-6733,*,5 mg,White,Round
+1281,apo-h-25-11610,*,25 mg,Orange,Round
+1282,apo-h-50-11611,*,50 mg,Orange,Round
+1283,apo-iba150-19035,*,150 mg (base),White,Elliptical / Oval
+1284,apo-irb-150-20174,*,150 mg,White,Elliptical / Oval
+1285,apo-irb-300-20175,*,300 mg,White,Elliptical / Oval
+1286,apo-irb-75-20173,*,75 mg,White,Elliptical / Oval
+1287,apo-ket-200-8388,*,200 mg,White,Round
+1288,apo-l-5-24081,*,5 mg,White,Elliptical / Oval
+1289,apo-l-5-11615,*,5 mg,Red,Elliptical / Oval
+1290,apo-l10-12651,*,10 mg,White,Round
+1291,apo-l10-15077,*,10 mg,Brown,Elliptical / Oval
+1292,apo-l20-8904,*,20 mg,Brown,Elliptical / Oval
+1293,apo-l30-15078,*,30 mg,Brown,Elliptical / Oval
+1294,apo-l40-8906,*,40 mg,Yellow,Elliptical / Oval
+1295,apo-lam-100-13869,*,100 mg,Peach,Round
+1296,apo-lam-150-13870,*,150 mg,White,Round
+1297,apo-lam-200-13871,*,200 mg,Blue,Round
+1298,apo-lam-25-13868,*,25 mg,White,Round
+1299,apo-le-10-12676,*,10 mg,White,Round
+1300,apo-le-20-9443,*,20 mg,White,Three-sided
+1301,apo-let-2-5-19379,*,2.5 mg,Yellow,Round
+1302,apo-lmv-100-21748,*,100 mg,Brown,Capsule-shape
+1303,apo-lmv-150-18356,*,150 mg,White,Four-sided
+1304,apo-lmv-300-18357,*,300 mg,Gray,Four-sided
+1305,apo-lor-10-11617,*,10 mg,White,Elliptical / Oval
+1306,apo-lov-20-12652,*,20 mg,White,Round
+1307,apo-ls-25-16390,*,25 mg,White,Round
+1308,apo-ls-50-16391,*,50 mg,White,Round
+1309,apo-ls100-16392,*,100 mg,White,Elliptical / Oval
+1310,apo-lxr-1000-23294,*,1000 mg,White,Elliptical / Oval
+1311,apo-lxr-500-17978,*,500 mg,White,Elliptical / Oval
+1312,apo-lxr-500-23292,*,500 mg,White,Elliptical / Oval
+1313,apo-lxr-750-17979,*,750 mg,White,Capsule-shape
+1314,apo-lxr-750-23293,*,750 mg,White,Capsule-shape
+1315,apo-m-500-8769,*,500 mg,White,Round
+1316,apo-m10-19695,*,10 mg (base),Beige,Four-sided
+1317,apo-m250-14358,*,250 mg,Blue & Pink,Capsule-shape
+1318,apo-m4-19696,*,4 mg (base),Pink,Elliptical / Oval
+1319,apo-m5-19697,*,5 mg (base),Pink,Round
+1320,apo-mel-15-12684,*,15 mg,Yellow,Round
+1321,apo-mel-7-5-12683,*,7.5 mg,Yellow,Round
+1322,apo-mi-15-11631,*,15 mg,Yellow,Elliptical / Oval
+1323,apo-mi-30-11632,*,30 mg,Pink,Elliptical / Oval
+1324,apo-mi-45-11633,*,45 mg,White,Elliptical / Oval
+1325,apo-mid-10-11630,*,10 mg,Blue,Round
+1326,apo-mid-2-5-11628,*,2.5 mg,White,Round
+1327,apo-mid-5-11629,*,5 mg,Orange,Round
+1328,apo-mod-100-21832,*,100 mg,White,Round
+1329,apo-mod-200-21833,*,200 mg,White,Elliptical / Oval
+1330,apo-moe-15-15080,*,15 mg,White,Round
+1331,apo-moe-7-5-15079,*,7.5 mg,White,Round
+1332,apo-myc-180-21993,*,180 mg,Green,Round
+1333,apo-myc360-22362,*,360 mg,Pink,Elliptical / Oval
+1334,apo-myc500-14359,*,500 mg,Purple,Capsule-shape
+1335,apo-nab500-22782,*,500 mg,White,Capsule-shape
+1336,apo-nab750-22783,*,750 mg,Beige,Capsule-shape
+1337,apo-nav-200-19318,*,200 mg,White,Elliptical / Oval
+1338,apo-nv400-22022,*,400 mg,Yellow,Elliptical / Oval
+1339,apo-ol-10-18192,*,10 mg,Yellow,Round
+1340,apo-ol-15-18193,*,15 mg,Yellow,Round
+1341,apo-ol-20-18194,*,20 mg,Yellow,Round
+1342,apo-ol-5-18191,*,5 mg,Yellow,Round
+1343,apo-ola-10-19166,*,10 mg,White,Round
+1344,apo-ola-15-19167,*,15 mg,Blue,Elliptical / Oval
+1345,apo-ola-2-5-19163,*,2.5 mg,White,Round
+1346,apo-ola-20-19168,*,20 mg,Pink,Elliptical / Oval
+1347,apo-ola-5-19164,*,5 mg,White,Round
+1348,apo-ola-7-5-19165,*,7.5 mg,White,Round
+1349,apo-ond4-18090,*,4 mg,White,Elliptical / Oval
+1350,apo-ond8-18089,*,8 mg,Yellow,Elliptical / Oval
+1351,apo-oxa-600-11638,*,600 mg,White,Elliptical / Oval
+1352,apo-oxc-150-15081,*,150 mg,Yellow,Elliptical / Oval
+1353,apo-oxc-300-15082,*,300 mg,Yellow,Elliptical / Oval
+1354,apo-oxc-600-15083,*,600 mg,Yellow,Elliptical / Oval
+1355,apo-pr-125-20759,*,0.125 mg,White,Round
+1356,apo-pr-25-20760,*,0.25 mg,White,Elliptical / Oval
+1357,apo-pr-5-20761,*,0.5 mg,White,Elliptical / Oval
+1358,apo-pr-75-20762,*,0.75 mg,White,Elliptical / Oval
+1359,apo-pr-1-20763,*,1 mg,White,Round
+1360,apo-pr-1-5-20764,*,1.5 mg,White,Round
+1361,apo-pra-10-12679,*,10 mg,Pink,Round
+1362,apo-pra-20-12680,*,20 mg,Yellow,Round
+1363,apo-pra-40-12681,*,40 mg,Green,Round
+1364,apo-pra-80-11643,*,80 mg,Yellow,Round
+1365,apo-q-5-11644,*,5 mg,Red,Elliptical / Oval
+1366,apo-qu-10-11645,*,10 mg,Red,Capsule-shape
+1367,apo-qu-20-11646,*,20 mg,Red,Capsule-shape
+1368,apo-qu-40-11647,*,40 mg,Red,Capsule-shape
+1369,apo-que-100-19063,*,100 mg,Yellow,Round
+1370,apo-que-200-19064,*,200 mg,White,Round
+1371,apo-que-25-19061,*,25 mg,Peach,Round
+1372,apo-que-400-19066,*,400 mg,Yellow,Capsule-shape
+1373,apo-que-50-19062,*,50 mg,White,Round
+1374,apo-que300-19065,*,300 mg,White,Capsule-shape
+1375,apo-r1-5-20895,*,1.5 mg,Yellow,Capsule-shape
+1376,apo-r3-20896,*,3 mg,Orange,Capsule-shape
+1377,apo-r4-5-20897,*,4.5 mg,Red,Capsule-shape
+1378,apo-r6-20898,*,6 mg,Orange / Red,Capsule-shape
+1379,apo-ran-150-11648,*,150 mg,White,Round
+1380,apo-ran-300-11649,*,300 mg,White,Elliptical / Oval
+1381,apo-ri-25-13873,*,0.25 mg,Yellow,Capsule-shape
+1382,apo-ri-5-13874,*,0.5 mg,Red,Capsule-shape
+1383,apo-ri-1-13875,*,1 mg,White,Capsule-shape
+1384,apo-ri-2-13876,*,2 mg,Orange,Capsule-shape
+1385,apo-ri-3-13877,*,3 mg,Beige,Capsule-shape
+1386,apo-ri-4-13878,*,4 mg,Green,Capsule-shape
+1387,apo-ri-50-21074,*,50 mg,White,Capsule-shape
+1388,apo-ris-150-22135,*,150 mg,Blue,Round
+1389,apo-ris-35-23991,*,35 mg,Orange,Round
+1390,apo-ris-75-22134,*,75 mg,Pink,Round
+1391,apo-rop-25-20765,*,0.25 mg,White,Five-sided
+1392,apo-rop-5-20766,*,0.5 mg,Yellow,Five-sided
+1393,apo-rop-1-20767,*,1 mg,Green,Five-sided
+1394,apo-rop-2-20768,*,2 mg,Pink,Five-sided
+1395,apo-rop-3-20769,*,3 mg,Purple,Five-sided
+1396,apo-rop-4-20770,*,4 mg,Brown,Five-sided
+1397,apo-rop-5-20771,*,5 mg,Blue,Five-sided
+1398,apo-rz-10-20380,*,10 mg (base),Pink,Capsule-shape
+1399,apo-rz-10-21155,*,10 mg (base),White,Round
+1400,apo-rz-5-20379,*,5 mg (base),Pink,Capsule-shape
+1401,apo-rz-5-21154,*,5 mg (base),White,Round
+1402,apo-se-25-11651,*,25 mg,Green,Elliptical / Oval
+1403,apo-se-50-11652,*,50 mg,Blue,Elliptical / Oval
+1404,apo-ser-100-11653,*,100 mg,Yellow,Elliptical / Oval
+1405,apo-sil-20-20255,*,20 mg (base),White,Round
+1406,apo-so-80-11654,*,80 mg,White,Elliptical / Oval
+1407,apo-sot-120-6346,*,120 mg,White,Capsule-shape
+1408,apo-sot-160-11655,*,160 mg,White,Elliptical / Oval
+1409,apo-sot-240-11656,*,240 mg,White,Elliptical / Oval
+1410,apo-t-5-11666,*,5 mg,White,Elliptical / Oval
+1411,apo-t2-18662,*,2 mg,Blue,Capsule-shape
+1412,apo-t4-18663,*,4 mg,White / Green,Capsule-shape
+1413,apo-t6-18664,*,6 mg,Blue,Capsule-shape
+1414,apo-tam-10-20327,*,10 mg,White,Round
+1415,apo-tam-20-20328,*,20 mg,White,Round
+1416,apo-ter-250-10094,*,250 mg,White,Round
+1417,apo-tl-1-19999,*,1 mg,White,Round
+1418,apo-tl-2-20000,*,2 mg,White,Round
+1419,apo-to-10-8862,*,10 mg,White,Capsule-shape
+1420,apo-to-20-8863,*,20 mg,White,Capsule-shape
+1421,apo-tor-100-8864,*,100 mg,White,Capsule-shape
+1422,apo-tp-100-14362,*,100 mg,Yellow,Round
+1423,apo-tp-200-14363,*,200 mg,Brown,Round
+1424,apo-tp-25-14360,*,25 mg,White,Round
+1425,apo-tp-50-14361,*,50 mg,Yellow,Round
+1426,apo-tr-20-20025,*,20 mg,Yellow,Round
+1427,apo-tr-50-11670,*,50 mg,White,Elliptical / Oval
+1428,apo-tra-650-21824,*,650 mg,White,Elliptical / Oval
+1429,apo-v120-19294,*,120 mg,Pink,Elliptical / Oval
+1430,apo-vsr-180-19295,*,180 mg,Pink,Elliptical / Oval
+1431,apo-vsr-240-19296,*,240 mg,Green,Capsule-shape
+1432,apo-xr500-11623,*,500 mg,White,Capsule-shape
+1433,apo-xr750-11624,*,750 mg,White,Capsule-shape
+1434,apo-zol-2-5-20889,*,2.5 mg,Yellow,Round
+1435,apo-zol-2-5-20891,*,2.5 mg,White,Round
+1436,apo-zol-5-11673,*,5 mg,Pink,Elliptical / Oval
+1437,apo-zol-5-20890,*,5 mg,Pink,Round
+1438,apo-zol-5-20892,*,5 mg,White,Round
+1439,apo-003-9860,*,12.5 mg,White,Round
+1440,apo-004-9861,*,25 mg,White,Round
+1441,apo-005-9862,*,50 mg,White,Elliptical / Oval
+1442,apo-006-9863,*,100 mg,White,Elliptical / Oval
+1443,apo-014-11585,*,diltiazem extended-release 120 mg,Orange & White,Capsule-shape
+1444,apo-015-11586,*,diltiazem extended-release 180 mg,Orange & White,Capsule-shape
+1445,apo-018-12574,*,200 mg,Green,Round
+1446,apo-019-6488,*,300 mg,Green,Round
+1447,apo-025-10526,*,150 mg,White,Round
+1448,apo-027-10706,*,250 mg,White,Capsule-shape
+1449,apo-039-8174,*,200 mg,Gray & White,Capsule-shape
+1450,apo-040-8175,*,300 mg,Gray & White,Capsule-shape
+1451,apo-041-400-8176,*,400 mg,White,Elliptical / Oval
+1452,apo-046-125-15035,*,125 mg,White,Elliptical / Oval
+1453,apo-047-250-15034,*,250 mg,White,Elliptical / Oval
+1454,apo-048-500-15033,*,500 mg,White,Elliptical / Oval
+1455,apo-049-12986,*,2.5 mg,Yellow,Round
+1456,apo-050-12987,*,5 mg,White,Round
+1457,apo-051-12988,*,10 mg,Red,Round
+1458,apo-052-12989,*,20 mg,Orange,Round
+1459,apo-10-20-22882,*,10 mg / 20 mg,Purple,Capsule-shape
+1460,apo-10-40-22883,*,10 mg / 40 mg,Blue,Capsule-shape
+1461,apo-1000-8771,*,1000 mg,White,Elliptical / Oval
+1462,apo-102-500-8177,*,500 mg,White,Elliptical / Oval
+1463,apo-112-9366,*,100 mg,White,Capsule-shape
+1464,apo-113-9367,*,300 mg,White & Yellow,Capsule-shape
+1465,apo-114-9368,*,400 mg,Orange & White,Capsule-shape
+1466,apo-131-12639,*,25 mg / 100 mg,Red,Round
+1467,apo-132-12640,*,50 mg / 200 mg,Peach,Round
+1468,apo-133-25-14870,*,25 mg,Brown,Capsule-shape
+1469,apo-134-100-14871,*,100 mg,Brown,Capsule-shape
+1470,apo-180-13864,*,Diltazem HCl ER 180 mg,Green & White,Capsule-shape
+1471,apo-2-5-10-22878,*,2.5 mg / 10 mg,White,Capsule-shape
+1472,apo-200-14802,*,200 mg,White,Round
+1473,apo-300-13866,*,Diltazem HCl ER 300 mg,Purple / White,Capsule-shape
+1474,apo-360-13867,*,Diltazem HCl ER 360 mg,Green,Capsule-shape
+1475,apo-5-10-22879,*,5 mg / 10 mg,Brown,Capsule-shape
+1476,apo-5-20-22880,*,5 mg / 20 mg,Pink,Capsule-shape
+1477,apo-5-40-22881,*,5 mg / 40 mg,Blue,Capsule-shape
+1478,apo-500-18140,deferiprone,500 mg,White,Capsule-shape
+1479,apo-500-met-11625,*,500 mg,White,Elliptical / Oval
+1480,apo-850-8770,*,850 mg,White,Elliptical / Oval
+1481,apo-c-0-5-11573,*,0.5 mg,Orange,Round
+1482,apo-c-1-12579,*,1 mg,Blue,Round
+1483,apo-c-2-12580,*,2 mg,White,Round
+1484,apo-t100-13880,*,100 mg,White,Round
+1485,apo-t150-50-50-50-14353,*,150 mg,White,Elliptical / Oval
+1486,apo-t300-100-100-100-13881,*,300 mg,White,Elliptical / Oval
+1487,apo-t50-13879,*,50 mg,White,Round
+1488,apo-ti-2-8929,*,2 mg,White,Round
+1489,apo-ti-4-8930,*,4 mg,White,Round
+1490,apo-zip-20-19286,*,20 mg,Purple / White,Capsule-shape
+1491,apo-zip-40-19287,*,40 mg,Purple,Capsule-shape
+1492,apo-zip-60-19288,*,60 mg,White,Capsule-shape
+1493,apo-zip-80-19289,*,80 mg,Purple / White,Capsule-shape
+1494,apo020-6489,*,400 mg,Green,Elliptical / Oval
+1495,apo021-6490,*,800 mg,Green,Elliptical / Oval
+1496,apo033-8220,*,400 mg,White,Elliptical / Oval
+1497,apo26-6858,*,300 mg,White,Capsule-shape
+1498,apo900-22657,*,1000 mg,Yellow,Capsule-shape
+1499,apr-10-21972,apremilast,10 mg,Pink,Four-sided
+1500,apr-20-21973,apremilast,20 mg,Brown,Four-sided
+1501,apr-30-21974,apremilast,30 mg,Beige,Four-sided
+1502,apresazide-100-50-ciba-159-3012,hydralazine/hydrochlorothiazide,100 mg / 50 mg,Pink & White,Capsule-shape
+1503,apresazide-25-25-ciba-139-3010,hydralazine/hydrochlorothiazide,25 mg / 25 mg,Blue / White,Capsule-shape
+1504,apresazide-50-50-ciba-149-3011,hydralazine/hydrochlorothiazide,50 mg / 50 mg,Pink & White,Capsule-shape
+1505,apse-6669,*,600 mg / 120 mg,Yellow,*
+1506,aptalis-10-22804,pancrelipase,"pancrelipase (10,000 units lipase, 34,000 units protease, 55,000 units amylase)",White & Yellow,Capsule-shape
+1507,aptalis-15-22805,pancrelipase,"pancrelipase (15,000 units lipase, 51,000 units protease, 82,000 units amylase)",Red & White,Capsule-shape
+1508,aptalis-20-22806,pancrelipase,"pancrelipase (20,000 units lipase, 68,000 units protease, 109,000 units amylase)",Green & White,Capsule-shape
+1509,aptalis-25-22807,pancrelipase,"pancrelipase (25,000 units lipase, 85,000 units protease, 136,000 units amylase)",Blue & White,Capsule-shape
+1510,aptalis-3-22802,pancrelipase,"pancrelipase (3,000 units lipase, 10,000 units protease, 16,000 units amylase)",White,Capsule-shape
+1511,aptalis-40-22786,pancrelipase,"pancrelipase (40,000 units lipase, 136,000 units protease, 218,000 units amylase)",Orange & White,Capsule-shape
+1512,aptalis-5-22803,pancrelipase,"pancrelipase (5,000 units lipase, 17,000 units protease, 27,000 units amylase)",White,Capsule-shape
+1513,aptensio-xr-10-mg-22932,methylphenidate,10 mg,Blue & White,Capsule-shape
+1514,aptensio-xr-15-mg-22933,methylphenidate,15 mg,Orange & White,Capsule-shape
+1515,aptensio-xr-20-mg-22934,methylphenidate,20 mg,Yellow & White,Capsule-shape
+1516,aptensio-xr-30-mg-22935,methylphenidate,30 mg,Purple / White,Capsule-shape
+1517,aptensio-xr-40-mg-22936,methylphenidate,40 mg,Pink & White,Capsule-shape
+1518,aptensio-xr-50-mg-22937,methylphenidate,50 mg,Green & White,Capsule-shape
+1519,aptensio-xr-60-mg-22938,methylphenidate,60 mg,Gray & White,Capsule-shape
+1520,aq101-75-22287,doxycycline,doxycycline hyclate 75 mg,Blue,Round
+1521,aquapure-ec-028-11825,pancrelipase,"Lipase 12,000 U / Amylase 39,000 U / Protease 39,000 U",Red,Capsule-shape
+1522,ar-23942,*,20 mg,Yellow,Round
+1523,ar-102-ar-102-22723,*,324 mg,White,Capsule-shape
+1524,ar-102-ar-102-9699,quinine,324 mg,Clear,Capsule-shape
+1525,ar-374-14378,*,colchicine 0.6 mg,Purple,Capsule-shape
+1526,ar-374-22726,*,0.6 mg,Purple,Capsule-shape
+1527,ar-787-15179,fenofibric acid,35 mg,White,Round
+1528,ar-787-22721,*,35 mg,White,Round
+1529,ar788-15180,fenofibric acid,105 mg,White,Elliptical / Oval
+1530,ar788-22722,*,105 mg,White,Elliptical / Oval
+1531,aricept-10-1296,donepezil,10 mg,Yellow,Round
+1532,aricept-23-16005,donepezil,23 mg,Red,Round
+1533,aricept-5-1295,donepezil,5 mg,White,Round
+1534,as-21497,calcium carbonate,calcium carbonate 750 mg,Orange,Elliptical / Oval
+1535,as-21498,calcium carbonate,calcium carbonate 750 mg,Yellow,Elliptical / Oval
+1536,as-21499,calcium carbonate,calcium carbonate 750 mg,Pink,Elliptical / Oval
+1537,as-200-14437,*,200 mg,Yellow,Round
+1538,as-400-20993,*,400 mg,Yellow,Elliptical / Oval
+1539,as-d-21393,acetaminophen/chlorpheniramine/dextromethorphan/pseudoephedrine,acetaminophen 325 mg / chlorpheniramine maleate 2 mg / dextromethorphan HBr 10 mg / pseudoephedrine HCl 30 mg,Purple,Elliptical / Oval
+1540,as-dc-19336,acetaminophen/dextromethorphan/phenylephrine,acetaminophen 325 mg / dextromethorphan hydrobromide 10 mg / phenylephrine hydrochloride 5 mg,Orange,Elliptical / Oval
+1541,as-ds-18495,acetaminophen/dextromethorphan/phenylephrine,acetaminophen 325 mg / dextromethorphan 10 mg / phenylephrine 5 mg,Blue,Capsule-shape
+1542,as-m-21409,acetaminophen/dextromethorphan/guaifenesin/phenylephrine,acetaminophen 250 mg / dextromethorphan hydrobromide 10 mg / guaifenesin 200 mg / phenylephrine hydrochloride 5 mg,Red,Elliptical / Oval
+1543,as-nite-19337,acetaminophen/dextromethorphan/doxylamine/phenylephrine,acetaminophen 325 mg / dextromethorphan hydrobromide 10 mg / doxylamine succinate 6.25 mg / phenylep,Green,Elliptical / Oval
+1544,as-sh-21408,acetaminophen/doxylamine/phenylephrine,acetaminophen 325 mg / doxylamine succinate 6.25 mg / phenylephrine hydrochloride 5 mg,Blue,Elliptical / Oval
+1545,as-sn-19560,acetaminophen/dextromethorphan/doxylamine/phenylephrine,acetaminophen 325 mg / dextromethorphan 10 mg / doxylamine 6.25 mg / phenylephrine 5 mg,Green,Elliptical / Oval
+1546,asacol-ne-54,mesalamine,400 mg,Red,Elliptical / Oval
+1547,asb-4413,aspirin,500 MG,White,Elliptical / Oval
+1548,asc-105-13887,*,100 mg,Yellow,Elliptical / Oval
+1549,asc-106-13888,*,200 mg,Yellow,Elliptical / Oval
+1550,asc-128-23283,*,150 mg,Yellow,Capsule-shape
+1551,asc-210-18929,*,5 mg,Blue,Capsule-shape
+1552,asc-211-18930,*,10 mg,Blue,Capsule-shape
+1553,asc-116-18926,*,10 mg,White,Round
+1554,asc-186-17867,*,5 mg / 2.5 mg,Green,Capsule-shape
+1555,ascriptin-17452,aspirin,buffered aspirin 325 mg,White,Round
+1556,asl-40-16994,azilsartan medoxomil,40 mg,White,Round
+1557,asl-80-16995,azilsartan medoxomil,80 mg,White,Round
+1558,asp-flu-18494,acetaminophen/chlorpheniramine/dextromethorphan/phenylephrine,acetaminophen 250 mg / chlorpheniramine 2 mg / dextromethorphan 10 mg / phenylephrine 5 mg,White,Round
+1559,asp-nd-18496,aspirin/dextromethorphan/phenylephrine,aspirin 325 mg / dextromethorphan 10 mg / phenylephrine bitartrate 7.8 mg,White,Round
+1560,aspirin-17464,*,81 mg,Orange,Round
+1561,aspirin-44-157-14769,*,325 mg,White,Round
+1562,aspirin-44-249-22668,*,325 mg,White,Round
+1563,aspirin-a2-6530,*,325 mg,White,Round
+1564,aspirin-k48-6534,*,325 mg,White,Round
+1565,aspirin-l-6526,*,325 mg,White,Round
+1566,ast-10-janssen-4513,astemizole,10 MG,White,Round
+1567,atabex-23509,"multivitamin, prenatal",prenatal multivitamin,Blue,Capsule-shape
+1568,atarax-10-2593,hydroxyzine,10 mg,Orange,Three-sided
+1569,atarax-100-2595,hydroxyzine,100 MG,Purple,Three-sided
+1570,atarax-25-2594,hydroxyzine,25 mg,Green,Three-sided
+1571,atarax-50-101,hydroxyzine,hydrochloride 50 mg,Yellow,Three-sided
+1572,atn-25-18047,*,25 mg,White,Round
+1573,atn-100-18045,*,100 mg,White,Round
+1574,atn-50-18046,*,50 mg,White,Round
+1575,aton-705-cuprimine-20516,penicillamine,250 mg,Beige,Capsule-shape
+1576,atromid-s-500-2503,clofibrate,500 MG,Orange,Elliptical / Oval
+1577,augmentin-250-125-89,amoxicillin/clavulanate,250 mg / 125 mg,White,Elliptical / Oval
+1578,augmentin-500-125-90,amoxicillin/clavulanate,500 mg / 125 mg,White,Elliptical / Oval
+1579,augmentin-200-86,amoxicillin/clavulanate,200 mg / 28.5 mg,Pink,Round
+1580,augmentin-400-87,amoxicillin/clavulanate,400 mg / 57 mg,Pink,Round
+1581,augmentin-875-91,amoxicillin/clavulanate,875 mg / 125 mg,White,Elliptical / Oval
+1582,augmentin-xr-12098,amoxicillin/clavulanate,1000 mg / 62.5 mg,White,Elliptical / Oval
+1583,aum-101-22526,*,10 mg (base),Beige,Round
+1584,aum-102-22528,*,5 mg (base),Pink,Round
+1585,aum-103-22527,*,4 mg (base),Pink,Elliptical / Oval
+1586,av-756-13007,chlorpheniramine/phenylephrine,9 mg-25 mg,*,Elliptical / Oval
+1587,av1-22570,dasabuvir/ombitasvir/paritaprevir/ritonavir,ombitasvir 12.5 mg / paritaprevir 75 mg / ritonavir 50 mg,Pink,Rectangle
+1588,av1-23465,ombitasvir/paritaprevir/ritonavir,ombitasvir 12.5 mg / paritaprevir 75 mg / ritonavir 50 mg,Pink,Capsule-shape
+1589,av2-22571,dasabuvir/ombitasvir/paritaprevir/ritonavir,dasabuvir 250 mg,Beige,Elliptical / Oval
+1590,avinza-120-mg-508-8845,morphine,120 mg,Purple / White,Capsule-shape
+1591,avinza-30-mg-505-8842,morphine,30 mg,Yellow / White,Capsule-shape
+1592,avinza-45-mg-509-13892,morphine,45 mg,Blue / White,Capsule-shape
+1593,avinza-60-mg-506-8843,morphine,60 mg,Green / White,Capsule-shape
+1594,avinza-75-mg-510-13893,morphine,75 mg,Orange / White,Capsule-shape
+1595,avinza-90-mg-507-8844,morphine,90 mg,Red / White,Capsule-shape
+1596,aw-21486,*,100 mg,White,Round
+1597,ax-21487,*,300 mg,White,Round
+1598,ax4-17694,phentermine,15 mg,Blue & Yellow,Round
+1599,ax7-17695,phentermine,30 mg,Yellow,Round
+1600,ax8-19114,phentermine,37.5 mg,White & Blue Specks,Round
+1601,axid-ar-17263,nizatidine,75 MG,Tan,Elliptical / Oval
+1602,ayerst-786-2524,sulfamethizole,500 MG,White,Elliptical / Oval
+1603,ayerst-878-2529,*,conjugated estrogens 0.625 mg / methyltestosterone 5 mg,White,Round
+1604,ayerst-879-2530,*,conjugated estrogens 1.25 mg / methyltestosterone 10 mg,Yellow,Round
+1605,ayerst-880-2531,*,conjugated estrogens 0.45 mg / meprobamate 200 mg,Green,Elliptical / Oval
+1606,ayerst-881-2532,*,conjugated estrogens 0.45 mg / meprobamate 400 mg,Pink,Elliptical / Oval
+1607,az-048-20631,*,25 mg,Pink,Capsule-shape
+1608,az-010-9986,*,325 mg,White,Round
+1609,az-013-10408,*,81 mg,Orange,Round
+1610,az-020-20318,*,500 mg / 25 mg,Blue,Capsule-shape
+1611,az-023-17319,*,80 mg,Purple,Round
+1612,az-023-17320,*,80 mg,Pink,Round
+1613,az-024-20780,*,500 mg,*,Round
+1614,az-029-22069,*,500 mg / 65 mg,Red,Capsule-shape
+1615,az-036-18507,*,420 mg,White,Round
+1616,az-076-22077,*,200 mg,Yellow,Round
+1617,az-217-19726,*,sennosides 8.6 mg,Brown,Round
+1618,az-221-20779,*,500 mg (base),White,Capsule-shape
+1619,az-234-17322,*,325 mg,White,Round
+1620,az-235-17323,*,500 mg,White,Round
+1621,az-246-19915,*,4 mg,Yellow,Round
+1622,az-247-22076,*,25 mg,Blue,Round
+1623,az-261-20781,*,500 mg / 5 mg,White,Round
+1624,az-267-20619,*,500 mg / 25 mg,Blue,Capsule-shape
+1625,az-270-22070,*,325 mg / 5 mg,Orange,Capsule-shape
+1626,az-273-18532,acetaminophen/dextromethorphan/guaifenesin/phenylephrine,acetaminophen 325 mg / dextromethorphan 15mg / guaifenesin 200mg / phenylephrine 5mg,White,Round
+1627,az-275-18776,acetaminophen/chlorpheniramine/phenylephrine,acetaminophen 325 mg / chlorpheniramine maleate 2 mg / phenylephrine hydrochloride 5 mg,White,Round
+1628,az-278-20294,aluminum hydroxide/magnesium hydroxide,aluminum hydroxide dried gel 300 mg / magnesium hydroxide 150 mg,Pink,Round
+1629,az-285-22066,*,250 mg / 250 mg / 65 mg,White,Round
+1630,az-286-18538,acetaminophen/guaifenesin/phenylephrine,acetaminophen 325 mg / guaifenesin 200mg / phenylephrine hydrochloride 10mg,White,Round
+1631,az-319-22226,*,325 mg / 2 mg / 10 mg / 5 mg,Blue,Capsule-shape
+1632,az-323-22071,*,325 mg / 10 mg / 200 mg / 5 mg,Yellow,Elliptical / Oval
+1633,az-324-22072,*,325 mg / 10 mg / 5 mg,White,Rectangle
+1634,az-328-22064,*,500 mg,White,Capsule-shape
+1635,az-345-22073,*,20 mg / 400 mg,White,Elliptical / Oval
+1636,az-353-22065,*,500 mg,Red,Round
+1637,az-368-22074,*,325 mg / 200 mg / 5 mg,Red,Capsule-shape
+1638,az-40-23783,osimertinib,40 mg,Beige,Round
+1639,az-80-23784,osimertinib,80 mg,Beige,Elliptical / Oval
+1640,az011-9988,*,500 mg,White,Round
+1641,az012-9987,*,500 mg,White,Elliptical / Oval
+1642,az046-18817,*,262 mg,Pink,Round
+1643,az070-19853,*,80 mg,Pink,Round
+1644,b-3853,*,diphenhydramine citrate 19 mg,Pink,Round
+1645,b-17463,aspirin,81 mg,White,Round
+1646,b-11907,*,200 mg,Yellow,Round
+1647,b-21904,aspirin,325 mg,White,Round
+1648,b-1791,aspirin/pravastatin,81 mg / 40 mg,*,Elliptical / Oval
+1649,b-066-100-868,*,100 mg,White,Round
+1650,b-071-300-869,*,300 mg,White,Elliptical / Oval
+1651,b-107-9289,*,750 mg,White,Elliptical / Oval
+1652,b-108-17347,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.4 mg,Yellow,Round
+1653,b-11-15865,ethinyl estradiol/levonorgestrel,inert,Green,Round
+1654,b-120-1699,diltiazem,120 mg,White,Elliptical / Oval
+1655,b-125-16996,ethinyl estradiol/norethindrone,ethinyl estradiol 0.005 mg / norethindrone acetate 1 mg,White,Round
+1656,b-14-9520,ethinyl estradiol/ethynodiol,ethinyl estradiol 35 mcg / ethynodiol 1 mg,Yellow,Round
+1657,b-143-16490,ethinyl estradiol/ethynodiol,inert,White,Round
+1658,b-143-17555,ethinyl estradiol/norgestimate,inert,White,Round
+1659,b-143-17565,ethinyl estradiol/norgestimate,inert,White,Round
+1660,b-151-16724,*,5 mg,White,Round
+1661,b-178-15234,*,45 mg,Gray,Capsule-shape
+1662,b-179-15235,*,90 mg,Yellow,Capsule-shape
+1663,b-180-24103,*,180 mg,White,Capsule-shape
+1664,b-180-15236,*,135 mg,Brown,Capsule-shape
+1665,b-180-1700,diltiazem,180 mg,White,Elliptical / Oval
+1666,b-191-19352,*,2.5 mg,White,Round
+1667,b-2-19309,buprenorphine/naloxone,2 mg / 0.5 mg,Orange,Six-sided
+1668,b-201-10-1406,*,10 mg,Beige,Elliptical / Oval
+1669,b-208-15939,drospirenone/ethinyl estradiol,inert,White,Round
+1670,b-208-16497,ethinyl estradiol/levonorgestrel,inert,White,Round
+1671,b-208-16498,ethinyl estradiol/levonorgestrel,inert,White,Round
+1672,b-208-16504,ethinyl estradiol/levonorgestrel,inert,White,Round
+1673,b-208-15485,ethinyl estradiol/norgestimate,inert,White,Round
+1674,b-21-8048,ethinyl estradiol/levonorgestrel,30 mcg / 0.15 mg,Orange,Round
+1675,b-22-4503,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Pink,Round
+1676,b-240-24104,*,240 mg,White,Capsule-shape
+1677,b-240-12660,diltiazem,240 mg,White,Elliptical / Oval
+1678,b-247-19039,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1679,b-247-19042,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1680,b-247-16524,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1681,b-247-16526,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1682,b-247-23230,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1683,b-247-16881,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1684,b-25-8164,*,25 mg,Pink,Elliptical / Oval
+1685,b-257-15938,drospirenone/ethinyl estradiol,drospirenone 3 mg / ethinyl estradiol 0.02 mg,Pink,Round
+1686,b-273-17348,ethinyl estradiol/norethindrone,ferrous fumarate 75 mg,Brown,Round
+1687,b-28-18485,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Orange,Round
+1688,b-28-16499,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Orange,Round
+1689,b-28-4506,ethinyl estradiol/levonorgestrel,inert,Pink,Round
+1690,b-285-715,*,50 mg,White,Round
+1691,b-29-6236,ethinyl estradiol/levonorgestrel,inert,White,Round
+1692,b-300-24105,*,300 mg,White,Capsule-shape
+1693,b-300-9022,diltiazem,300 mg,White,Elliptical / Oval
+1694,b-332-9229,desogestrel/ethinyl estradiol,desogestrel 0.125 mg / ethinyl estradiol 0.025 mg,Orange,Round
+1695,b-333-5896,desogestrel/ethinyl estradiol,desogestrel 0.1 mg /  ethinyl estradiol 0.025 mg,Beige,Round
+1696,b-334-16102,desogestrel/ethinyl estradiol,inert,White,Round
+1697,b-335-16101,desogestrel/ethinyl estradiol,desogestrel 0.15 mg / ethinyl estradiol 0.025 mg,Pink,Round
+1698,b-34-15933,estradiol/norethindrone,estradiol 1 mg / norethindrone acetate 0.5 mg,White,Round
+1699,b-341-16848,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.5 mg,Yellow,Round
+1700,b-342-16849,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1 mg,White,Round
+1701,b-343-16850,ethinyl estradiol/norethindrone,inert,Peach,Round
+1702,b-360-24106,*,360 mg,White,Capsule-shape
+1703,b-360-9023,diltiazem,360 mg,White,Elliptical / Oval
+1704,b-40-10557,bisoprolol/hydrochlorothiazide,10 mg / 6.25 mg,White,Round
+1705,b-420-24107,*,420 mg,White,Capsule-shape
+1706,b-420-6355,diltiazem,420 mg,White,Elliptical / Oval
+1707,b-451-15482,ethinyl estradiol/norgestimate,ethinyl estradiol 0.025 mg / norgestimate 0.18 mg,Gray,Round
+1708,b-452-15483,ethinyl estradiol/norgestimate,ethinyl estradiol 0.025 mg / norgestimate 0.215 mg,Blue,Round
+1709,b-453-15484,ethinyl estradiol/norgestimate,ethinyl estradiol 0.025 mg / norgestimate 0.25 mg,Blue,Round
+1710,b-47-10555,bisoprolol/hydrochlorothiazide,2.5 mg / 6.25 mg,Yellow,Round
+1711,b-474-12116,*,1 mg / 0.5 mg,White,Round
+1712,b-485-624,*,25 mg,Green,Round
+1713,b-50-10556,bisoprolol/hydrochlorothiazide,5 mg / 6.25 mg,Pink,Round
+1714,b-50-902-1249,*,50 mg,White,Round
+1715,b-53-22124,estradiol/norethindrone,estradiol 0.5 mg / norethindrone acetate 0.1 mg,White,Round
+1716,b-544-13920,*,250 mg,White,Round
+1717,b-555-16508,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg,Blue,Round
+1718,b-555-17832,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg,Green,Round
+1719,b-555-606-10570,*,20 mg,White,Round
+1720,b-555-779-1246,*,10 mg,White,Round
+1721,b-555-872-1247,*,2.5 mg,White,Round
+1722,b-555-873-1248,*,5 mg,White,Round
+1723,b-556-18486,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.01 mg,Yellow,Round
+1724,b-556-16500,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.01 mg,Yellow,Round
+1725,b-556-16509,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.01 mg,Yellow,Round
+1726,b-556-17833,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.01 mg,Yellow,Round
+1727,b-576-13917,*,1 mg,White,Round
+1728,b-61-17295,bisoprolol,10 mg,White,Heart-shape
+1729,b-623-17701,*,0.5 mg / 0.1 mg,White,Round
+1730,b-711-16878,ethinyl estradiol/norethindrone,ethinyl estradiol 0.02 mg / norethindrone 1 mg,Pink,Round
+1731,b-712-16879,ethinyl estradiol/norethindrone,ethinyl estradiol 0.03 mg / norethindrone 1 mg,Yellow,Round
+1732,b-713-16880,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1 mg,Blue,Round
+1733,b-715-8953,norethindrone,0.35 mg,Pink,Round
+1734,b-729-8786,doxycycline,100 mg,Yellow,Round
+1735,b-735-16515,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.4 mg,Peach,Round
+1736,b-746-22181,*,20 mg,Brown,Capsule-shape
+1737,b-747-22182,*,30 mg,Green & White,Capsule-shape
+1738,b-748-22183,*,60 mg,Brown / Green,Capsule-shape
+1739,b-793-19438,*,1.5 mg,Yellow,Capsule-shape
+1740,b-794-19439,*,3 mg,Orange,Capsule-shape
+1741,b-795-19440,*,4.5 mg,Red,Capsule-shape
+1742,b-796-19441,*,6 mg,Orange / Red,Capsule-shape
+1743,b-798-15936,*,2 mg,White,Elliptical / Oval
+1744,b-799-15937,*,8 mg,White,Elliptical / Oval
+1745,b-8-19310,buprenorphine/naloxone,8 mg / 2 mg,Orange,Six-sided
+1746,b-839-22669,*,250 mg,White,Capsule-shape
+1747,b-859-1614,*,50 mg,White,Round
+1748,b-860-100-1615,*,100 mg,White,Elliptical / Oval
+1749,b-861-150-1616,*,150 mg,White,Elliptical / Oval
+1750,b-886-1-1097,*,1 mg,Purple,Elliptical / Oval
+1751,b-887-2-1098,*,2 mg,Green,Elliptical / Oval
+1752,b-899-1-2-1099,*,0.5 mg,White,Elliptical / Oval
+1753,b-913-23414,multivitamin,3-90.314-2-35 mg,Tan / White,Capsule-shape
+1754,b-917-200-1412,*,200 mg,White,Round
+1755,b-923-400-8493,*,400 mg,White,Elliptical / Oval
+1756,b-927-5-1414,methotrexate,5 mg,Green,Elliptical / Oval
+1757,b-928-7-1-2-1415,methotrexate,7.5 mg,Blue,Elliptical / Oval
+1758,b-929-10-1416,methotrexate,10 mg,Pink,Elliptical / Oval
+1759,b-941-5889,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.5 mg,Yellow,Round
+1760,b-942-16861,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.75 mg,Blue,Round
+1761,b-943-16862,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1 mg,Peach,Round
+1762,b-944-4103,ethinyl estradiol/norethindrone,inert,White,Round
+1763,b-944-16516,ethinyl estradiol/norethindrone,inert,White,Round
+1764,b-944-16858,ethinyl estradiol/norethindrone,inert,White,Round
+1765,b-944-16859,ethinyl estradiol/norethindrone,inert,White,Round
+1766,b-945-15-1417,methotrexate,15 mg,Purple,Elliptical / Oval
+1767,b-949-8835,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 1mg,Yellow,Round
+1768,b-95-15863,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.05 mg,Brown,Round
+1769,b-951-16860,ethinyl estradiol/norethindrone,ethinyl estradiol 0.035 mg / norethindrone 0.5 mg,Yellow,Round
+1770,b-952-5-496,*,5 mg,Orange,Round
+1771,b-953-10-497,*,10 mg,*,Round
+1772,b-96-5773,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.04 mg and levonorgestrel 0.075 mg,White,Round
+1773,b-965-5891,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.02 mg / levonorgestrel 0.1 mg,Pink,Round
+1774,b-967-1418,*,25 mg,White,Elliptical / Oval
+1775,b-968-50-1419,*,50 mg,Yellow,Elliptical / Oval
+1776,b-969-100-1420,*,100 mg,Brown,Elliptical / Oval
+1777,b-97-15864,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.125 mg,Yellow,Round
+1778,b-977-5894,ethinyl estradiol/norethindrone,ethinyl estradiol 0.02 mg / norethindrone 1 mg,Yellow,Round
+1779,b-977-19037,ethinyl estradiol/norethindrone,ethinyl estradiol 0.02 mg / norethindrone 1 mg,Yellow,Round
+1780,b-977-19038,ethinyl estradiol/norethindrone,ethinyl estradiol 0.02 mg / norethindrone 1 mg,Yellow,Round
+1781,b-977-23229,ethinyl estradiol/norethindrone,ethinyl estradiol 0.02 mg / norethindrone acetate 1 mg,Yellow,Round
+1782,b-978-19040,ethinyl estradiol/norethindrone,ethinyl estradiol 0.03 mg / norethindrone 1.5 mg,Pink,Round
+1783,b-978-19041,ethinyl estradiol/norethindrone,ethinyl estradiol 0.03 mg / norethindrone 1.5 mg,Pink,Round
+1784,b-978-16525,ethinyl estradiol/norethindrone,ethinyl estradiol 0.03 mg / norethindrone 1.5 mg,Pink,Round
+1785,b-985-5892,ethinyl estradiol/norgestimate,ethinyl estradiol 0.035 mg / norgestimate 0.18 mg,Gray,Round
+1786,b-986-17563,ethinyl estradiol/norgestimate,ethinyl estradiol 0.035 mg / norgestimate 0.215 mg,Blue,Round
+1787,b-987-4104,ethinyl estradiol/norgestimate,ethinyl estradiol 0.035 mg / norgestimate 0.25 mg,Blue,Round
+1788,b-987-17564,ethinyl estradiol/norgestimate,ethinyl estradiol 0.035 mg / norgestimate 0.25 mg,Blue,Round
+1789,b-992-16496,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg,Pink,Round
+1790,b-992-8949,ethinyl estradiol/levonorgestrel,ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg,Pink,Round
+1791,b-997-1-10-8839,*,0.1 mg,Yellow,Elliptical / Oval
+1792,b-c2-15599,*,0.125 mg,White,Round
+1793,b-c3-15601,*,0.25 mg,White,Elliptical / Oval
+1794,b-c4-15602,*,0.5 mg,White,Elliptical / Oval
+1795,b-c5-15603,*,1 mg,White,Round
+1796,b-c6-15604,*,1.5 mg,White,Round
+1797,b-e-7-21547,*,37.5 mg,White,Capsule-shape
+1798,b-kerlone-20-14656,betaxolol,20 mg,White,Round
+1799,b-wl-25-17544,diphenhydramine,diphenhydramine 25 mg,Pink,Elliptical / Oval
+1800,b-583-11883,dexchlorpheniramine/methscopolamine/pseudoephedrine,3.5 mg-1 mg-45 mg,White,*
+1801,b-01-21280,*,1 mg,Yellow,Round
+1802,b-073-12893,*,325mg / 50mg / 40mg / 30mg,Blue & Gray,Capsule-shape
+1803,b-074-12899,*,asprin 325mg / butalbital 50mg / caffeine 40mg / codeine phosphate 30mg,Blue & Yellow,Capsule-shape
+1804,b-084-17115,multivitamin,1 mg / 2.5 mg / 25 mg,Pink,Elliptical / Oval
+1805,b-1-23320,*,5 mg,White,Elliptical / Oval
+1806,b-1-l-l-294,bisoprolol,5 mg,Pink,Heart-shape
+1807,b-108-10943,carbetapentane/pseudoephedrine,25 mg-75 mg,*,*
+1808,b-1114-15706,*,0.5 mg,White,Round
+1809,b-1115-15707,*,1 mg,White,Elliptical / Oval
+1810,b-1116-18142,*,2 mg,White,Round
+1811,b-12-140-13916,*,12 mg,Red,Round
+1812,b-133-8985,*,60 mg,White,Round
+1813,b-145-8459,digoxin,125 mcg (0.125 mg),Yellow,Round
+1814,b-146-8460,digoxin,250 mcg (0.25 mg),White,Round
+1815,b-152-16725,*,10 mg,White,Round
+1816,b-154-17358,"multivitamin, prenatal",,White,Elliptical / Oval
+1817,b-155-18016,"multivitamin, prenatal",27-1 MG,Tan,Elliptical / Oval
+1818,b-171-5873,*,250 mg,White,Elliptical / Oval
+1819,b-180-723-18720,*,180 mg,Pink,Capsule-shape
+1820,b-199-13324,methenamine/sodium acid phosphate,500 mg-500 mg,Yellow,Elliptical / Oval
+1821,b-2-23321,*,7.5 mg,White,Elliptical / Oval
+1822,b-203-13500,iron polysaccharide,Polysaccharide Iron Complex 150 mg,Brown & Orange,Capsule-shape
+1823,b-212-500-21539,*,500 mg,White,Capsule-shape
+1824,b-213-750-21540,*,750 mg,White,Capsule-shape
+1825,b-214-1000-21541,*,1000 mg,White,Capsule-shape
+1826,b-236-9337,guaifenesin/phenylephrine,600 mg-30 mg,White,Elliptical / Oval
+1827,b-241-10820,*,15 mg,White,Round
+1828,b-242-10821,*,30 mg,White,Round
+1829,b-251-12902,*,butabarbital 15 mg / hyoscyamine hydrobromide 0.3 mg / phenazopyridine hydrochloride 150 mg,Brown,Elliptical / Oval
+1830,b-254-11884,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg,Blue,Elliptical / Oval
+1831,b-260-17526,*,600 mg,White,Elliptical / Oval
+1832,b-267-10837,phenylephrine/pyrilamine,25 mg-30 mg,*,*
+1833,b-293-11430,*,300 mg,Beige,Elliptical / Oval
+1834,b-3-23322,*,10 mg,White,Elliptical / Oval
+1835,b-3-c-20002,*,10 mg (base),White,Elliptical / Oval
+1836,b-30-721-18718,*,30 mg,Pink,Round
+1837,b-302-20-18678,*,20 mg,Orange,Elliptical / Oval
+1838,b-303-3-11731,*,300 mg / 30 mg,White,Round
+1839,b-303-40-18679,*,40 mg,Pink,Elliptical / Oval
+1840,b-304-4-11732,*,300 mg / 60 mg,White,Round
+1841,b-304-80-18680,*,80 mg,Pink,Capsule-shape
+1842,b-305-2-10131,*,300 mg / 15 mg,White,Round
+1843,b-312-22148,*,100 mg,Beige,Round
+1844,b-325-15994,*,0.125 mg,White,Round
+1845,b-35-719-13908,*,35 mg,White,Elliptical / Oval
+1846,b-35-v-11371,phendimetrazine,35 mg,Green & White,Round
+1847,b-352-9776,multivitamin,Vitamin B Complex with Folic Acid,Orange,Elliptical / Oval
+1848,b-352-20-9441,*,20 mg,Yellow,Round
+1849,b-384-17116,multivitamin,2 MG-2.5 MG-25 MG,Pink,Elliptical / Oval
+1850,b-387-10-00-1409,*,1000 mg,White,Elliptical / Oval
+1851,b-4-23323,*,15 mg,White,Rectangle
+1852,b-4-138-13914,*,4 mg,Yellow,Round
+1853,b-417-16997,*,50 mg,White,Round
+1854,b-418-16998,*,100 mg,White,Round
+1855,b-423-11726,chlorpheniramine/methscopolamine/pseudoephedrine,8 mg-1.25 mg-60 mg,White,*
+1856,b-442-19445,acetaminophen/dextromethorphan/guaifenesin/pseudoephedrine,acetaminophen 500 mg / dextromethorphan 20 mg / guaifenesin 200 mg / pseudoephedrine 60 mg,White,Capsule-shape
+1857,b-466-18117,"multivitamin, prenatal",27-1 mg,Pink,Elliptical / Oval
+1858,b-469-11879,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg and Docusate,Pink,Elliptical / Oval
+1859,b-492-1-11406,*,1 mg,Yellow,Round
+1860,b-493-2-11407,*,2 mg,Blue,Round
+1861,b-50-14803,*,50 mg,White,Round
+1862,b-514-10503,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg,Pink,Elliptical / Oval
+1863,b-526-17939,*,250 mg,White,Capsule-shape
+1864,b-529-11880,acetaminophen/chlorpheniramine/phenylephrine/phenyltoloxamine,325 mg-8 mg-40 mg-50 mg,Yellow,Three-sided
+1865,b-530-13356,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg,Blue & Pink,*
+1866,b-536-11725,dyphylline/guaifenesin,200 mg / 300 mg,White,Elliptical / Oval
+1867,b-541-21042,multivitamin,,Red,Capsule-shape
+1868,b-543-13008,multivitamin with iron,"Vitamin B12 with C, Iron and Intrinsic Factor",Orange,Elliptical / Oval
+1869,b-544-21114,multivitamin with iron,50-101-1 mg,Brown,Elliptical / Oval
+1870,b-546-21192,multivitamin with iron,multivitamin with iron,Tan,Capsule-shape
+1871,b-566-21108,"multivitamin, prenatal",60-1 mg,Tan,Elliptical / Oval
+1872,b-572-1076,*,2.5 mg,Yellow,Elliptical / Oval
+1873,b-576-14786,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg,Orange,Round
+1874,b-584-23514,"multivitamin, prenatal",,Peach,Elliptical / Oval
+1875,b-592-12722,chlorpheniramine/methscopolamine/phenylephrine,8 mg-2.5 mg-20 mg,White,Elliptical / Oval
+1876,b-593-15165,multivitamin,Vitamin B Complex with C and Folic Acid,Beige,*
+1877,b-594-15158,multivitamin with minerals,Therapeutic Multiple Vitamins with Minerals,Red,Oval
+1878,b-60-722-18719,*,60 mg,Pink,Round
+1879,b-622-b-622-15995,*,5 mg / 2. 5 mg,Green,Capsule-shape
+1880,b-641-15159,multivitamin with minerals,Therapeutic Multiple Vitamins with Minerals,White,Oval
+1881,b-656-15993,*,0.125 mg,White,Round
+1882,b-682-13009,multivitamin with minerals,Multiple Vitamins with Minerals,Pink,*
+1883,b-70-720-13404,*,70 mg,White,Elliptical / Oval
+1884,b-701-150-10050,*,150 mg,Pink,Round
+1885,b-703-13354,ascorbic acid/iron polysaccharide,50 mg / 150 mg,Orange & White,Capsule-shape
+1886,b-725-17924,*,60 mg / 120 mg,Peach & White,Capsule-shape
+1887,b-749-23897,*,0.5 mg,Brown,Capsule-shape
+1888,b-775-7-1-2-1608,*,7.5 mg,Blue,Round
+1889,b-776-12-1-2-1609,*,12.5 mg,Orange,Elliptical / Oval
+1890,b-777-1-5-1610,*,15 mg,Orange,Round
+1891,b-778-13918,*,400 mg / 5 mg,White,Capsule-shape
+1892,b-798-13353,multivitamin with iron,"Vitamin B Complex with C, Folic Acid and Iron",Orange & White,Capsule-shape
+1893,b-8-23324,*,30 mg,White,Rectangle
+1894,b-8-139-13915,*,8 mg,Pink,Round
+1895,b-810-21041,multivitamin,,Blue,Round
+1896,b-814-250-9063,*,250 mg,White,Round
+1897,b-97-1-6603,*,1 mg,White,Round
+1898,b-971-5-1621,*,5 mg,Blue,Elliptical / Oval
+1899,b-972-1-0-1622,*,10 mg,Blue,Elliptical / Oval
+1900,b-973-2-0-1623,*,20 mg,Orange,Elliptical / Oval
+1901,b-974-3-0-1624,*,30 mg,Orange,Elliptical / Oval
+1902,b-98-2-10127,*,2 mg,White,Round
+1903,b-980-11744,*,30 mg,Orange,Capsule-shape
+1904,b-b-4415,aspirin,325 MG,White,Elliptical / Oval
+1905,b-b-6-0-17294,bisoprolol,5 mg,Pink,Heart-shape
+1906,b-f-17315,*,500 mg,White,Round
+1907,b-l-136-7622,*,250 mg,White,Elliptical / Oval
+1908,b-l-137-7623,*,500 mg,White,Elliptical / Oval
+1909,b-m-t-aptalis-23299,bismuth subcitrate potassium/metronidazole/tetracycline,bismuth subcitrate potassium 140 mg / metronidazole 125 mg / tetracycline hydrochloride 125 mg,White,Capsule-shape
+1910,b-m-t-axcan-pharma-9818,bismuth subcitrate potassium/metronidazole/tetracycline,bismuth subcitrate potassium 140 mg / metronidazole 125 mg / tetracycline hydrochloride 125 mg,White,Capsule-shape
+1911,b-m8-maxzide-7137,hydrochlorothiazide/triamterene,50 mg / 75 mg,Yellow,Figure eight-shape
+1912,b-m9-maxzide-8203,hydrochlorothiazide/triamterene,25 mg / 37.5 mg,Green,Figure eight-shape
+1913,b-p-605-18243,*,4 mg,White,Round
+1914,b-p-655-18955,*,5 mg,White,Round
+1915,b-p-656-18956,*,10 mg,White,Round
+1916,b-080-15605,chloral hydrate,500 mg,Gray,Elliptical / Oval
+1917,b-080-8952,chloral hydrate,500 mg,Red,Elliptical / Oval
+1918,b-145-11846,chlorpheniramine/pseudoephedrine,8 mg / 120 mg,Blue / Clear,Capsule-shape
+1919,b-357-10089,"multivitamin, prenatal",Prenatal Multivitamins with Folic Acid 1 mg,White,*
+1920,b-375-18526,*,200 mg / 200 mg,White,Round
+1921,b-635-b-635-17265,multivitamin with iron,,Brown / Red,Elliptical / Oval
+1922,b-3-8039,*,324 mg,Red,Round
+1923,b01-ll-12475,*,12.5 mg / 10 mg,Blue,Six-sided
+1924,b02-ll-12476,*,12.5 mg / 20 mg,Yellow,Round
+1925,b03-ll-12477,*,25 mg / 20 mg,Orange,Round
+1926,b1103-21945,*,0.5 mg,Yellow,Capsule-shape
+1927,b131-19821,*,2 mg,White,Round
+1928,b132-19822,*,4 mg,White,Round
+1929,b15-18009,*,15 mg,Orange,Capsule-shape
+1930,b159-18027,"multivitamin, prenatal",90-1 MG,Purple,Elliptical / Oval
+1931,b167-50-15618,*,50 mg,White,Round
+1932,b168-100-15619,*,100 mg,White,Round
+1933,b170-8869,chlorpheniramine/pseudoephedrine,12 mg / 120 mg,Red,*
+1934,b192-19353,*,5 mg,White,Elliptical / Oval
+1935,b2-c-20001,*,5 mg (base),White,Round
+1936,b2-logo-8950,buprenorphine,2 mg,White,Elliptical / Oval
+1937,b2-92-11429,*,150 mg,Beige,Elliptical / Oval
+1938,b294-11431,*,600 mg,Beige,Elliptical / Oval
+1939,b2c-7152,digoxin,0.1 mg,Yellow,Elliptical / Oval
+1940,b30-18010,*,30 mg,Red / Blue,Capsule-shape
+1941,b300-5-18676,*,5 mg,White,Elliptical / Oval
+1942,b301-10-18677,*,10 mg,Peach,Elliptical / Oval
+1943,b336-8837,guaifenesin/phenylephrine,400 mg-30 mg,White,*
+1944,b385-500-1407,*,500 mg,White,Elliptical / Oval
+1945,b386-850-1408,*,850 mg,White,Elliptical / Oval
+1946,b4-c-20003,*,20 mg (base),White,Elliptical / Oval
+1947,b404-12894,*,7.5 mg,Yellow,Round
+1948,b419-12895,*,15 mg,Yellow,Elliptical / Oval
+1949,b428-9652,guaifenesin/phenylephrine,800 mg-25 mg,White,Elliptical / Oval
+1950,b511-10953,acetaminophen/caffeine/magnesium salicylate/phenyltoloxamine,500 mg-50 mg-500 mg-20 mg,White,Elliptical / Oval
+1951,b528-21110,multivitamin with minerals,5 mg,Yellow,Elliptical / Oval
+1952,b591-13352,chlorpheniramine/methscopolamine/phenylephrine,2 mg / 1.25 mg / 10 mg,Purple,Round
+1953,b75-23497,*,75 mg,White,Capsule-shape
+1954,b8-logo-10809,buprenorphine,8 mg,White,Elliptical / Oval
+1955,b815-500-9064,*,500 mg,White,Elliptical / Oval
+1956,b816-750-9065,*,750 mg,White,Elliptical / Oval
+1957,b853-23260,*,0.5 mg,White,Round
+1958,b854-23261,*,1 mg,Yellow,Round
+1959,b855-23262,*,2 mg,Red,Round
+1960,ba-300-19320,acetaminophen/butalbital,300 mg / 50 mg,Yellow,Round
+1961,ba-325-17461,aspirin,325 mg,White,Round
+1962,ba-500-17462,aspirin,500 mg,White,Round
+1963,bac-10-832-271,*,10 mg,White,Round
+1964,bactrim-5003,sulfamethoxazole/trimethoprim,400 mg / 80 mg,Green,Elliptical / Oval
+1965,bactrim-6045,sulfamethoxazole/trimethoprim,400 mg / 80 mg,White,Round
+1966,bactrim-ds-1818,sulfamethoxazole/trimethoprim,800 mg / 160 mg,White,Elliptical / Oval
+1967,barr-010-619,*,500 mg,Black & Yellow,Capsule-shape
+1968,barr-011-620,*,250 mg,Orange & Yellow,Capsule-shape
+1969,barr-033-963,*,10 mg,Black & Green,Capsule-shape
+1970,barr-059-491,*,50 mg,Pink,Capsule-shape
+1971,barr-158-962,*,5 mg,Green & Yellow,Capsule-shape
+1972,barr-159-964,*,25 mg,Green / White,Capsule-shape
+1973,barr-286-716,*,75 mg,White,Round
+1974,barr-382-623,*,100 mg,White,Round
+1975,barr-446-1095,*,10 mg,White,Round
+1976,barr-454-18451,isotretinoin,30 mg,Orange,Capsule-shape
+1977,barr-513-17148,*,500 mg,Orange,Capsule-shape
+1978,barr-555-163-261,*,2 mg,White,Round
+1979,barr-555-164-262,*,10 mg,Blue,Round
+1980,barr-555-271-621,*,100 mg,White,Round
+1981,barr-555-363-264,*,5 mg,Yellow,Round
+1982,barr-555-444-369,*,50 mg / 75 mg,Yellow,Elliptical / Oval
+1983,barr-555-483-736,*,5 mg / 50 mg,Yellow,Round
+1984,barr-555-489-492,*,50 mg,White,Round
+1985,barr-555-490-493,*,100 mg,White,Round
+1986,barr-555-585-1096,*,500 mg,Green,Round
+1987,barr-555-607-5881,*,40 mg,White,Round
+1988,barr-555-643-370,*,25 mg / 37.5 mg,Green,Elliptical / Oval
+1989,barr-555-727-737,*,0.75 mg,Yellow,Round
+1990,barr-555-728-738,*,1.5 mg,Orange,Round
+1991,barr-555-729-739,*,3 mg,*,Round
+1992,barr-555-835-21337,*,10 mg,White,Elliptical / Oval
+1993,barr-633-268,*,50 mg,White & Yellow,Capsule-shape
+1994,barr-634-269,*,100 mg,Yellow,Capsule-shape
+1995,barr-635-6746,*,200 mg,Orange,Capsule-shape
+1996,barr-658-270,*,500 mg / 5 mg,Red & White,Capsule-shape
+1997,barr-808-13921,*,10 mg,Brown & Yellow,Capsule-shape
+1998,barr-831-1-371,*,1 mg,Pink,Elliptical / Oval
+1999,barr-832-2-1-2-372,*,2.5 mg,Green,Elliptical / Oval
+2000,barr-833-5-373,*,5 mg,Orange,Elliptical / Oval
+2001,barr-834-7-1-2-374,*,7.5 mg,Yellow,Elliptical / Oval
+2002,barr-835-10-7004,*,10 mg,White,Elliptical / Oval
+2003,barr-869-2-376,*,2 mg,Purple,Elliptical / Oval
+2004,barr-870-1617,*,125 mg,Brown & White,Capsule-shape
+2005,barr-874-4-377,*,4 mg,Blue,Elliptical / Oval
+2006,barr-882-625,*,500 mg,Pink & Purple,Capsule-shape
+2007,barr-904-1100,*,20 mg,White,Round
+2008,barr-925-3-379,*,3 mg,Tan,Elliptical / Oval
+2009,barr-926-6-380,*,6 mg,Blue,Elliptical / Oval
+2010,barr-934-1618,isotretinoin,10 mg,Gray,Capsule-shape
+2011,barr-935-1619,isotretinoin,20 mg,Brown,Capsule-shape
+2012,barr-936-1620,isotretinoin,40 mg,Orange,Capsule-shape
+2013,barr-954-498,*,5 mg,Beige,Capsule-shape
+2014,barr-955-499,*,10 mg,Brown,Capsule-shape
+2015,barr-956-500,*,15 mg,Brown,Capsule-shape
+2016,barr-0-5-mg-101-10300,*,0.5 mg,White,Capsule-shape
+2017,barr-066-4064,*,100 MG,White,Round
+2018,barr-071-300-17202,*,300 mg,White,Round
+2019,barr-1-mg-102-10301,*,1 mg,Gray,Capsule-shape
+2020,barr-10-mg-876-1410,*,10 mg,Blue & Yellow,Capsule-shape
+2021,barr-100-mg-1076-21430,*,100 mg,White,Capsule-shape
+2022,barr-140-mg-1159-21431,*,140 mg,Blue & White,Capsule-shape
+2023,barr-15-mg-1112-16816,*,15 mg,Gray & Yellow,Capsule-shape
+2024,barr-16mg-1021-13911,*,16 mg,Pink,Capsule-shape
+2025,barr-180-mg-1160-21432,*,180 mg,Orange & White,Capsule-shape
+2026,barr-20-mg-1077-21429,*,20 mg,White,Capsule-shape
+2027,barr-20-mg-877-1411,*,20 mg,Blue & Gray,Capsule-shape
+2028,barr-200mg-588-10878,*,200 mg,Green & White,Capsule-shape
+2029,barr-24mg-1022-13913,*,24 mg,Tan,Capsule-shape
+2030,barr-25-mg-827-9616,*,25 mg,White,Capsule-shape
+2031,barr-250-mg-1075-21433,*,250 mg,White,Capsule-shape
+2032,barr-250mg-589-10879,*,250 mg,Blue & White,Capsule-shape
+2033,barr-30-mg-1113-16817,*,30 mg,Peach,Capsule-shape
+2034,barr-302-50-8094,*,50 mg,Red & Yellow,Capsule-shape
+2035,barr-323-25-1242,*,25 mg,Pink & White,Capsule-shape
+2036,barr-324-100-1243,*,100 mg,Pink & Yellow,Capsule-shape
+2037,barr-400mg-590-10880,*,400 mg,Red & White,Capsule-shape
+2038,barr-5-mg-1078-21428,*,5 mg,White,Capsule-shape
+2039,barr-651-6768,*,500 mg / 5 mg,Red & Yellow,Capsule-shape
+2040,barr-732-50-50-50-494,*,150 mg,White,Elliptical / Oval
+2041,barr-733-100-100-100-495,*,300 mg,White,Elliptical / Oval
+2042,barr-8mg-1020-13912,*,8 mg,Beige,Capsule-shape
+2043,barr-90-mg-871-16080,*,90 mg,Green & White,Capsule-shape
+2044,barr442-265,*,250 mg,White,Elliptical / Oval
+2045,barr443-266,*,500 mg,White,Elliptical / Oval
+2046,barr584-7945,*,250 mg,Green,*
+2047,barrier-it-200-19639,itraconazole,itraconazole 200 mg,White,Rectangle
+2048,bay-132-2264,diethylstilbestrol,50 MG,White,Round
+2049,bayer-18827,aspirin,325 mg,White,Elliptical / Oval
+2050,bayer-40-20028,regorafenib,40 mg,Pink,Elliptical / Oval
+2051,bayer-c1000-qd-1553,ciprofloxacin,1000 mg,White,Elliptical / Oval
+2052,bayer-c500-qd-1552,ciprofloxacin,500 mg,White,Elliptical / Oval
+2053,bayer-cip-500-17956,ciprofloxacin,500 mg,Yellow,Elliptical / Oval
+2054,bayer-lg-6566,praziquantel,600 mg,White,Capsule-shape
+2055,bayer-m400-1316,moxifloxacin,400 mg,Red,Elliptical / Oval
+2056,bayer-m400-23674,*,400 mg,Red,Elliptical / Oval
+2057,bayer-m400-23675,*,400 mg,Red,Elliptical / Oval
+2058,bayer-bayer-0-5-r-21566,riociguat,0.5 mg,White,Round
+2059,bayer-bayer-1-r-21567,riociguat,1 mg,Yellow,Round
+2060,bayer-bayer-1-5-r-21568,riociguat,1.5 mg,Orange,Round
+2061,bayer-bayer-10-12662,vardenafil,10 mg,Orange,Round
+2062,bayer-bayer-2-r-21569,riociguat,2 mg,Peach,Round
+2063,bayer-bayer-2-5-1548,vardenafil,2.5 mg,Orange,Round
+2064,bayer-bayer-2-5-r-21570,riociguat,2.5 mg,Orange,Round
+2065,bayer-bayer-20-11389,vardenafil,20 mg,Orange,Round
+2066,bayer-bayer-200-20534,sorafenib,200 mg,Red,Round
+2067,bayer-bayer-5-9090,vardenafil,5 mg,Orange,Round
+2068,bayer-bayer-bayer-bayer-18013,aspirin,325 mg,White,Round
+2069,bayer-bayer-cip-250-17957,ciprofloxacin,250 mg,White,Round
+2070,bayer-headache-19500,aspirin/caffeine,aspirin 500 mg / caffeine 32.5 mg,White,Capsule-shape
+2071,bci-8383,doxercalciferol,0.5 mcg,Orange,Elliptical / Oval
+2072,bci-8384,doxercalciferol,2.5 mcg,Yellow,Elliptical / Oval
+2073,bcm-50-17528,*,50 mg,White,Round
+2074,bct-2-1-2-6018,*,2.5 mg,White,Round
+2075,be-19253,*,25 mg,Pink,Round
+2076,beach-11-14-10636,*,500 mg / 500 mg,Yellow,Elliptical / Oval
+2077,beach-11-15-3848,*,methenamine mandelate 500 mg / potassium phosphate 250 mg,Green,Elliptical / Oval
+2078,beach-11-25-367,potassium phosphate/sodium phosphate,155 mg / 982 mg,White,Elliptical / Oval
+2079,beach-11-34-7925,potassium phosphate/sodium phosphate,305 mg / 700 mg,Brown,Elliptical / Oval
+2080,beach-1111-3845,potassium acid phosphate,500 mg,White,Round
+2081,beach-1135-3852,potassium phosphate/sodium phosphate,155 mg / 350 mg,White,Round
+2082,beach-1112-3846,*,methenamine mandelate 350 mg / sodium phosphate (monohydrate) 200 mg,Yellow,Round
+2083,beano-18794,alpha-d-galactosidase,,White,Elliptical / Oval
+2084,beecham-fastin-2299,phentermine,30 MG,Blue / Clear,Capsule-shape
+2085,beecham-185-2325,penicillin v potassium,250 MG,White,Elliptical / Oval
+2086,beecham-186-2326,penicillin v potassium,500 MG,White,Elliptical / Oval
+2087,ben-a-17545,diphenhydramine,diphenhydramine 25 mg,Pink & White,Elliptical / Oval
+2088,benadryl-6850,diphenhydramine,25 mg,Pink & White,Capsule-shape
